@@ -1,0 +1,3286 @@
+# Translation of Plugins - WP Statistics - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - WP Statistics - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-23 10:25:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - WP Statistics - Stable (latest release)\n"
+
+#: includes/classes/class-wp-statistics-rest.php:215
+msgid "Visitor Hit was recorded successfully."
+msgstr "访客点击成功记录"
+
+#: includes/templates/welcome.php:88
+msgid "You can add as many channels/groups as you want to the panel and arrange different tasks in different channels/groups."
+msgstr "您可以在面板中添加任意数量的频道/组，并在不同的频道/组中安排不同的任务。"
+
+#: includes/templates/welcome.php:87
+msgid "Supports multiple channels or groups"
+msgstr "支持多个频道或组"
+
+#: includes/templates/welcome.php:74
+msgid "Integrate with famous plugins such as WooCommerce, CF7, GravityForms, Quforms and EDD."
+msgstr "集成了许多有名的插件，比如WooCommerce, CF7, GravityForms, Quforms 和 EDD。"
+
+#: includes/templates/welcome.php:61
+msgid "Simply send any message through the WordPress admin panel to your channels or groups on the telegram. No need to add a person as an admin to the channel/group to add send messages."
+msgstr "只需通过WordPress管理面板将任何消息发送到电报上的您的频道或群组即可。 无需在该频道/群组中添加管理员身份即可添加发送消息。"
+
+#: includes/templates/welcome.php:60
+msgid "Send messages to your channels/Groups"
+msgstr "发送短信到你的频道/群组"
+
+#: includes/templates/welcome.php:40
+msgid "Your customers can easily send their message using the box placed on your website."
+msgstr "您的客户可以使用您网站上的框轻松地发送其消息。"
+
+#: includes/templates/welcome.php:27
+msgid "A new plugin from <a href=\"%s\" target=\"_blank\">VeronaLabs</a>."
+msgstr "来自<a href=\"%s\" target=\"_blank\">VeronaLabs</a>的新插件。"
+
+#: includes/templates/welcome.php:26
+msgid "WP-Telegram Notifications"
+msgstr "WP-Telegram 通知"
+
+#: includes/templates/welcome.php:14
+msgid "New Product"
+msgstr "新产品"
+
+#: includes/settings/wps-settings.php:34
+msgid "Visitor IP"
+msgstr "访客IP"
+
+#: includes/settings/tabs/wps-visitor-ip.php:157
+msgid "Show all <code>$_SERVER</code> in your server."
+msgstr "在您的服务器中显示所有<code>$_SERVER</code>。"
+
+#: includes/settings/tabs/wps-visitor-ip.php:155
+msgid "If your server use the custom key in <code>$_SERVER</code> for getting IP. e.g. <code>HTTP_CF_CONNECTING_IP</code> in CloudFlare."
+msgstr "如果您的服务器使用 <code>$_SERVER</code>中的自定义密钥来获取IP。 例如 CloudFlare中的<code>HTTP_CF_CONNECTING_IP</code>。"
+
+#: includes/settings/tabs/wps-visitor-ip.php:108
+#: includes/settings/tabs/wps-visitor-ip.php:147
+msgid "No available data."
+msgstr "没有可用数据"
+
+#: includes/settings/tabs/wps-visitor-ip.php:103
+msgid "Use %1$s"
+msgstr "使用%1$s"
+
+#: includes/settings/tabs/wps-visitor-ip.php:87
+msgid "The items below return the IP address that is different on each server. Is the best way that you choose."
+msgstr "以下各项返回的IP地址在每个服务器上都不同。 是您选择的最佳方式。"
+
+#: includes/settings/tabs/wps-visitor-ip.php:73
+msgid "Please check your internet connection and try again."
+msgstr "请检查你的网络连接状况，然后重试"
+
+#: includes/settings/tabs/wps-visitor-ip.php:59
+msgid "Your real IP detected with ipify.org service:"
+msgstr "使用ipify.org服务检测到您的真实IP："
+
+#: includes/settings/tabs/wps-visitor-ip.php:39
+msgid "$_SERVER"
+msgstr "$_SERVER"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:274
+msgid "Server Info"
+msgstr "服务器信息"
+
+#: includes/classes/class-wp-statistics-install.php:551
+msgid "Please don't close the browser window until the database operation was completed."
+msgstr "在完成数据库操作前，请勿关闭浏览器。"
+
+#: includes/classes/class-wp-statistics-install.php:540
+msgid "Error occurred during operation. Please refresh the page."
+msgstr "执行中发生错误，请刷新页面"
+
+#: includes/classes/class-wp-statistics-install.php:502
+msgid "Database upgrade operation completed!"
+msgstr "数据库升级完成！"
+
+#: includes/classes/class-wp-statistics-install.php:478
+msgid "Upgrade Database"
+msgstr "升级数据库"
+
+#: includes/classes/class-wp-statistics-install.php:475
+msgid "WP-Statistics database requires upgrade."
+msgstr "需要升级 WP-Statistics 数据库。"
+
+#: includes/functions/functions.php:2012
+msgid "404 not found"
+msgstr "404错误 找不到页面"
+
+#: includes/functions/functions.php:2009
+msgid "Search Page"
+msgstr "搜索页"
+
+#: includes/functions/functions.php:1996
+msgid "Home Page"
+msgstr "主页"
+
+#: includes/functions/functions.php:1903
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: includes/functions/functions.php:1902
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: includes/functions/functions.php:1851
+msgid "Edge"
+msgstr "Edge"
+
+#: includes/functions/functions.php:1850
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+#: includes/functions/functions.php:1849
+msgid "Firefox"
+msgstr "Firefox"
+
+#: includes/functions/functions.php:1848
+msgid "Chrome"
+msgstr "Chrome"
+
+#: includes/settings/tabs/wps-general.php:208
+msgid "Track All Wordpress Page Contains Category, Post Tags, Author, Custom Taxonomy and ..."
+msgstr "跟踪所有Wordpress页面，包含类别，文章标签，作者，自定义分类和..."
+
+#: includes/settings/tabs/wps-general.php:162
+msgid "If enabled, you will receive a report of each user's visit to the pages"
+msgstr "如果启用，您将收到有关每个用户访问页面的报告"
+
+#: includes/settings/tabs/wps-general.php:155
+msgid "Visitors logs:"
+msgstr "访客日志"
+
+#: includes/settings/tabs/wps-externals.php:267
+msgid "Click button to download the update."
+msgstr "单击按钮下载更新。"
+
+#: includes/log/widgets/users_online.php:38
+msgid "no online users yet."
+msgstr "尚无在线用户。"
+
+#: includes/log/top-referring.php:213
+msgid "Rating"
+msgstr "评分"
+
+#: includes/log/online.php:153
+msgid "Currently there are no online users in the site."
+msgstr "当前该站点中没有在线用户。"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:424
+msgid "Updated Matomo Referrer Spam."
+msgstr "已更新 Matomo Referrer Spam."
+
+#: includes/log/top-referring.php:216 includes/log/widgets/referring.php:28
+msgid "Server IP"
+msgstr "服务器IP"
+
+#: includes/log/top-referring.php:215
+msgid "Site Title"
+msgstr "站点标题"
+
+#: includes/log/top-referring.php:214
+msgid "Site Url"
+msgstr "站点链接"
+
+#: includes/settings/tabs/wps-general.php:322
+msgid "Don't forget to clear your enabled plugin cache."
+msgstr "不要忘记清除已启用的插件缓存。"
+
+#: includes/functions/functions.php:1853
+msgid "Safari"
+msgstr "Safari"
+
+#: includes/functions/functions.php:1852
+msgid "Opera"
+msgstr "Opera"
+
+#: includes/log/widgets/about.php:18
+msgid "More Info"
+msgstr "更多信息"
+
+#: includes/log/widgets/about.php:12
+msgid "Rate & Review"
+msgstr "评分 & 评论"
+
+#: includes/log/widgets/about.php:25
+msgid "Power by VeronaLabs"
+msgstr "由VeronaLabs驱动"
+
+#: includes/log/log.php:20
+msgid "WP Statistics - Version %s"
+msgstr "WP Statistics - 版本%s"
+
+#: includes/settings/tabs/wps-general.php:260
+msgid "Hits in single page:"
+msgstr "单页点击量:"
+
+#: includes/settings/tabs/wps-general.php:254
+msgid "Show hits meta box chart in the edit of all post types page."
+msgstr "在所有文章类型的编辑页面中显示点击元框图。"
+
+#: includes/settings/tabs/wps-general.php:247
+msgid "Hit metabox chart:"
+msgstr "点击元框图表："
+
+#: includes/settings/tabs/wps-general.php:232
+msgid "Hits column"
+msgstr "点击列"
+
+#: includes/templates/welcome.php:145
+msgid "Mehrshad Darzi"
+msgstr "Mehrshad Darzi"
+
+#: includes/settings/tabs/wps-privacy.php:33
+msgid "If you want to delete visitor data, please <a href=\"%s\">click here</a>."
+msgstr "如果要删除访客数据，请<a href=\"%s\">单击此处</a>。"
+
+#: includes/settings/tabs/wps-general.php:320
+msgid "If you use WordPress Cache Plugins, enable this option."
+msgstr "如果您使用WordPress缓存插件，请启用此选项。"
+
+#: includes/settings/tabs/wps-general.php:312
+msgid "Use Cache Plugin:"
+msgstr "使用缓存插件："
+
+#: includes/settings/tabs/wps-general.php:307
+msgid "Cache Plugin"
+msgstr "缓存插件"
+
+#: includes/settings/tabs/wps-externals.php:94
+msgid "See Visitor's City Name"
+msgstr "查看访客的城市名称"
+
+#: includes/settings/tabs/wps-externals.php:81
+msgid "GeoIP City:"
+msgstr "GeoIP城市:"
+
+#: includes/settings/tabs/wps-externals.php:68
+#: includes/settings/tabs/wps-externals.php:90
+msgid "Update Database"
+msgstr "更新数据库"
+
+#: includes/settings/tabs/wps-exclusions.php:307
+#: includes/settings/tabs/wps-exclusions.php:326
+msgid "(%1$sISO 3166 Country Codes%2$s)"
+msgstr "(%1$sISO 3166 ISO 国家/地区代码%2$s)"
+
+#: includes/log/top-pages.php:134 includes/log/top-referring.php:140
+#: includes/log/widgets/pages.php:11
+msgid "Link"
+msgstr "链接"
+
+#: includes/log/top-pages.php:133 includes/log/widgets/pages.php:10
+msgid "Title"
+msgstr "标题"
+
+#: includes/functions/functions.php:1868 includes/log/last-search.php:166
+#: includes/log/last-search.php:170 includes/log/last-visitor.php:155
+#: includes/log/last-visitor.php:159 includes/log/top-countries.php:164
+#: includes/log/top-countries.php:168 includes/log/online.php:100
+#: includes/log/online.php:103 includes/log/top-referring.php:230
+#: includes/log/widgets/recent.php:47 includes/log/widgets/recent.php:51
+#: includes/log/widgets/jqv.map.php:75 includes/log/widgets/top.visitors.php:59
+#: includes/log/widgets/top.visitors.php:62 includes/log/widgets/words.php:78
+#: includes/log/widgets/words.php:82
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/functions/functions.php:870
+msgid "Qwant"
+msgstr "Qwant"
+
+#: includes/classes/class-wp-statistics-tinymce.php:62
+#: includes/log/top-pages.php:132 includes/log/widgets/pages.php:9
+msgid "ID"
+msgstr "ID"
+
+#: includes/classes/class-wp-statistics-tinymce.php:60
+msgid "Format"
+msgstr "格式"
+
+#: includes/classes/class-wp-statistics-tinymce.php:57
+msgid "Is the time frame (time periods) for the statistic"
+msgstr "统计数据的时间范围(时间段)是什么"
+
+#: includes/classes/class-wp-statistics-tinymce.php:55
+msgid "Year"
+msgstr "年"
+
+#: includes/classes/class-wp-statistics-tinymce.php:54
+msgid "Month"
+msgstr "月"
+
+#: includes/classes/class-wp-statistics-tinymce.php:53
+msgid "Week"
+msgstr "周"
+
+#: includes/classes/class-wp-statistics-tinymce.php:50
+msgid "Select item ..."
+msgstr "选择项目 ..."
+
+#: includes/classes/class-wp-statistics-tinymce.php:49
+msgid "Time"
+msgstr "时间"
+
+#: includes/classes/class-wp-statistics-tinymce.php:48
+msgid "The statistics you want, see the next table for available options."
+msgstr "您想要的统计数据，请参见下表中的可用选项。"
+
+#: includes/classes/class-wp-statistics-tinymce.php:32
+msgid "Stat"
+msgstr "统计"
+
+#: includes/classes/class-wp-statistics-tinymce.php:31
+msgid "WP Statistics Shortcodes"
+msgstr "WP Statistics简码"
+
+#: includes/classes/class-wp-statistics-admin.php:309
+msgid "You Are Using %s Plugin in WordPress"
+msgstr "您正在WordPress中使用%s插件"
+
+#: includes/classes/class-wp-statistics-admin.php:311
+msgid "WP_CACHE is Enable in Your WordPress"
+msgstr "WP_CACHE已在您的WordPress中启用"
+
+#: includes/settings/tabs/wps-exclusions.php:386
+msgid "Exclude any call to the WordPress Admin pages."
+msgstr "排除对WordPress管理页面的任何调用。"
+
+#: includes/classes/class-wp-statistics-admin.php:314
+msgid "Please enable %1$sCache Setting%2$s in WP Statistics."
+msgstr "请在WP Statistics中启用%1$s缓存设置%2$s 。"
+
+#: includes/settings/tabs/wps-privacy.php:46
+msgid "This option anonymizes the user IP address for GDPR compliance. For example, 888.888.888.888 > 888.888.888.000."
+msgstr "此选项会将用户 IP 地址匿名化，使其符合 GDPR 标准。例如：888.888.888.888 > 888.888.888.000。"
+
+#: includes/settings/tabs/wps-privacy.php:38
+msgid "Anonymize IP Addresses:"
+msgstr "匿名化IP地址"
+
+#: includes/settings/tabs/wps-notifications.php:287
+msgid "Show all notices and suggestion from WP-Statistics in the admin."
+msgstr "在管理员中显示来自WP-Statistics的所有通知和建议。"
+
+#: includes/settings/tabs/wps-notifications.php:280
+msgid "All Notices:"
+msgstr "所有通知："
+
+#: includes/settings/tabs/wps-notifications.php:275
+msgid "Admin Notices"
+msgstr "管理员声明"
+
+#: includes/templates/welcome.php:7
+msgid "Submit your rating:"
+msgstr "提交您的评分："
+
+#: includes/settings/tabs/wps-privacy.php:66
+msgid "You will not be able to recover the IP addresses in the future to recover location information if this is enabled."
+msgstr "如果启用此功能，您以后将无法通过恢复IP地址来恢复位置信息。"
+
+#: includes/settings/tabs/wps-privacy.php:63
+msgid "The \"Store entire user agent string\" setting will be disabled if this is selected."
+msgstr "如果选中，则“存储用户代理字段”设置将被禁用。"
+
+#: includes/settings/tabs/wps-privacy.php:60
+msgid "This feature will not store IP addresses in the database but instead used a unique hash."
+msgstr "此功能会在数据库存储 IP 哈希值而不是明文。"
+
+#: includes/settings/tabs/wps-notifications.php:236
+msgid "Message body:"
+msgstr "消息体："
+
+#: includes/settings/tabs/wps-notifications.php:140
+msgid "Statistical reporting:"
+msgstr "统计报告："
+
+#: includes/settings/tabs/wps-notifications.php:85
+msgid "GeoIP:"
+msgstr "GeoIP:"
+
+#: includes/settings/tabs/wps-maintenance.php:123
+msgid "The number of hits required to delete the visitor."
+msgstr "该点击数量需要将访客删除。"
+
+#: includes/settings/tabs/wps-maintenance.php:77
+#: includes/settings/tabs/wps-maintenance.php:129
+msgid "Invalid values will disable the daily maintenance."
+msgstr "无效的值将无法进行日常维护。"
+
+#: includes/settings/tabs/wps-maintenance.php:71
+msgid "The number of days to keep statistics for."
+msgstr "统计信息的天数。"
+
+#: includes/settings/tabs/wps-general.php:187
+msgid "Pages:"
+msgstr "页面："
+
+#: includes/settings/tabs/wps-general.php:142
+msgid "Visitors:"
+msgstr "访客："
+
+#: includes/settings/tabs/wps-general.php:125
+msgid "Visits:"
+msgstr "访问："
+
+#: includes/settings/tabs/wps-general.php:75
+msgid "Online User:"
+msgstr "在线用户："
+
+#: includes/settings/tabs/wps-externals.php:183
+msgid "Use \"000\" (three zeros) to use \"Unknown\" as the country code."
+msgstr "使用“000”（三个0）来表示不确定的国家/地区代码。"
+
+#: includes/settings/tabs/wps-externals.php:180
+msgid "The international standard two letter country code (ie. US = United States, CA = Canada, etc.) for private (non-routable) IP addresses (ie. 10.0.0.1, 192.158.1.1, 127.0.0.1, etc.)."
+msgstr "保留（不可路由）IP地址（即10.0.0.1,192.158.1.1,127.0.0.1等）的国家地区代码（即US =美国，CA =加拿大等）。"
+
+#: includes/settings/tabs/wps-exclusions.php:320
+msgid "A list of country codes (one per line, two letters each) to include in statistics collection, if this list is not empty, only visitors from the included countries will be recorded"
+msgstr "要包含在统计信息收集中的国家代码列表（每行一个，每个两个字母），如果此列表不为空，则仅记录来自所包括国家/地区的访问者。"
+
+#: includes/settings/tabs/wps-exclusions.php:304
+#: includes/settings/tabs/wps-exclusions.php:323
+msgid "Use \"000\" (three zeros) to exclude unknown countries."
+msgstr "使用 \"000\" (三个0) 来排除未知国家/地区。"
+
+#: includes/settings/tabs/wps-exclusions.php:301
+msgid "A list of country codes (one per line, two letters each) to exclude from statistics collection."
+msgstr "从统计信息收集中排除的国家地区代码列表（每行一个，每个两个字母）。"
+
+#: includes/settings/tabs/wps-exclusions.php:238
+msgid "Use Honey Pot:"
+msgstr "使用Honey Pot："
+
+#: includes/settings/tabs/wps-exclusions.php:95
+msgid "This will generate a lot of data but is useful if you want to see the total number of hits your site gets, not just actual user visits."
+msgstr "这会产生大量数据，但如果您想查看站点的点击总数而不仅仅是实际的用户访问次数，那么该数据将会非常有用。"
+
+#: includes/settings/tabs/wps-exclusions.php:92
+msgid "This will record all the excluded hits in a separate table with the reasons why it was excluded but no other information."
+msgstr "这将记录所有排除在外的点击数极其排除在外的原因于单独的表格中。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:333
+msgid "All visitor data will be lost for this IP."
+msgstr "此IP的所有访客数据都将丢失。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:327
+msgid "Delete IP:"
+msgstr "删除IP:"
+
+#: includes/settings/tabs/wps-maintenance.php:126
+#: includes/optimization/tabs/wps-optimization-purging.php:264
+msgid "Minimum value is 10 hits."
+msgstr "最小值是10次。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:264
+msgid "This will remove the visitor and their hits to the site, however it will not remove individual page hits as that data is not recorded on a per use basis."
+msgstr "这将删除访客及其访问数据，但它不会删除单独的页面访问量，因为该数据不会在每次使用的基础上记录。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:264
+msgid "This can be useful to clear up old data when your site has been hit by a bot."
+msgstr "当您的网站被爬虫爬时，这可以清除旧数据。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:264
+msgid "Delete user statistics data where the user has more than the defined number of hits in a day."
+msgstr "用户在一日内的点击数超过限定的部分会被删除。"
+
+#: includes/settings/tabs/wps-maintenance.php:74
+#: includes/optimization/tabs/wps-optimization-purging.php:248
+msgid "Minimum value is 30 days."
+msgstr "最小值为30天。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:248
+msgid "Delete user statistics data older than the selected number of days."
+msgstr "删除在选定天数之前的用户数据。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:112
+msgid "A new table has been created to hold this information in a more scalable fashion."
+msgstr "已创建一个新表以更具扩展性的方式保存这些信息。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:107
+msgid "A new table has been created to hold this information in a more scalable fashion, however the old data must first be converted to the new format before it can be used."
+msgstr "已创建一个新表以更具扩展性的方式保存这些信息，然而在使用之前需要将旧数据转换为新的格式。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:107
+#: includes/optimization/tabs/wps-optimization-database.php:112
+msgid "Older installs of WP Statistics store details of searches in the visitors table which can become a performance issue on large datasets."
+msgstr "旧版WP Statistics会在访问者表中存储搜索的详细信息，这可能会成为大型数据集上的性能问题。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:76
+msgid "Clicking \"Update Now\" will scan the vistits table, delete duplicate entries and add the index."
+msgstr "点击“立即更新”按钮将扫描访客列表，删除重复的条目并添加索引。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:76
+#: includes/optimization/tabs/wps-optimization-database.php:82
+msgid "Older installs of WP Statistics allow for duplicate entries in the visits table in a corner case."
+msgstr "旧版WP Statistics允许在角落案例中访问表中的重复条目。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:45
+msgid "Clicking \"Update Now\" will scan the vistitors table, delete duplicate entries and add the index."
+msgstr "点击“立即更新”按钮将扫描访客列表，删除重复的条目并添加索引。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:45
+#: includes/optimization/tabs/wps-optimization-database.php:76
+msgid "To create the index on the older installs duplicate entries must be deleted first."
+msgstr "要在旧版本中创建索引，必须先删除重复的条目。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:45
+#: includes/optimization/tabs/wps-optimization-database.php:51
+#: includes/optimization/tabs/wps-optimization-database.php:76
+#: includes/optimization/tabs/wps-optimization-database.php:82
+msgid "Newer installs protect against this with a unique index on the table."
+msgstr "较新的版本通过数据表上的唯一索引来防止这种情况发生。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:45
+#: includes/optimization/tabs/wps-optimization-database.php:51
+msgid "Older installs of WP Statistics allow for duplicate entries in the visitors table in a corner case."
+msgstr "在临界情况下，旧版本的WP允许复制访客表的入口。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:25
+#: includes/optimization/tabs/wps-optimization-updates.php:21
+msgid "Countries:"
+msgstr "国家/地区:"
+
+#: includes/log/widgets/quickstats.php:106
+#: includes/log/widgets/quickstats.php:181 includes/log/widgets/summary.php:104
+#: includes/log/widgets/summary.php:179
+msgid "Total:"
+msgstr "总计："
+
+#: includes/log/widgets/quickstats.php:50 includes/log/widgets/summary.php:48
+msgid "Yesterday:"
+msgstr "昨天："
+
+#: includes/log/widgets/quickstats.php:36 includes/log/widgets/summary.php:34
+msgid "Today:"
+msgstr "今天："
+
+#: includes/log/widgets/quickstats.php:12 includes/log/widgets/summary.php:10
+msgid "Online Users:"
+msgstr "在线用户："
+
+#: includes/classes/class-wp-statistics-ajax.php:176
+msgid "No IP address data found to remove!"
+msgstr "没有需要移除的IP地址数据！"
+
+#: includes/classes/class-wp-statistics-ajax.php:172
+msgid "%s IP data deleted successfully."
+msgstr "%s IP上的数据已成功移除。"
+
+#: includes/classes/class-wp-statistics-admin.php:706
+msgid "Installation/upgrade complete!"
+msgstr "安装/升级完成！"
+
+#: includes/templates/welcome.php:6
+msgid "Thank you for updating to the latest version! We encourage you to submit a %srating and review%s over at WordPress.org. Your feedback is greatly appreciated!"
+msgstr "感谢您更新到最新版本！ 我们期望您在WordPress.org上提交%s评分并查看%s。 非常感谢您的反馈。"
+
+#: includes/settings/wps-settings.php:35
+msgid "Privacy"
+msgstr "隐私"
+
+#: includes/settings/tabs/wps-privacy.php:83
+msgid "Only enabled for debugging. (If the IP hash's are enabled, This option disabling automatically.)"
+msgstr "仅在调试时使用。 (如果启用了 IP 地址的哈希值，此选项将自动禁用)"
+
+#: includes/settings/tabs/wps-privacy.php:29
+msgid "Privacy and Data Protection"
+msgstr "隐私和数据保护"
+
+#: includes/classes/class-wp-statistics-updates.php:63
+msgid "Error the gzopen() function do not exist!"
+msgstr "发生错误，找不到 gzopen() 函数。"
+
+#: includes/templates/welcome.php:180
+msgid "Go to Statistics &rarr; Overview"
+msgstr "去统计＆rarr; 概观"
+
+#: includes/settings/tabs/wps-general.php:299
+msgid "Choose the position to show Hits."
+msgstr "选择要显示点击数的位置。"
+
+#: includes/log/log.php:5
+msgid "GeoIP collection is not enabled. Please go to <a href=\"%s\">setting page</a> to enable GeoIP for getting more information and location (country) from the visitor."
+msgstr "GeoIP 收集未启用。请转到 <a href=\"%s\">设置</a> 页面，启用 GeoIP 以从访客处获取更多信息以及位置 (国家/地区)。"
+
+#: includes/classes/class-wp-statistics-welcome.php:32
+msgid "WP-Statistics Welcome"
+msgstr "WP-Statistics 欢迎页"
+
+#: includes/classes/class-wp-statistics-frontend.php:192
+msgid "Hits: %s"
+msgstr "点击数：%s"
+
+#: includes/templates/welcome.php:163
+msgid "External Libraries"
+msgstr "外部库"
+
+#: includes/templates/welcome.php:162
+msgid "WP-Statistics is being developed on GitHub, if you’re interested in contributing to the plugin, please look at the <a href=\"%s\" target=\"_blank\">GitHub page</a>."
+msgstr "WP Statistics 托管在 GitHub 上，如果您对它感兴趣，请单击此处 <a href=\"%s\" target=\"_blank\">GitHub页面</a>。"
+
+#: includes/templates/welcome.php:158
+msgid "Language Contributor"
+msgstr "翻译贡献者"
+
+#: includes/templates/welcome.php:157
+msgid "Pedro Mendonça"
+msgstr "Pedro Mendonça"
+
+#: includes/templates/welcome.php:146 includes/templates/welcome.php:150
+#: includes/templates/welcome.php:154
+msgid "Core Contributor"
+msgstr "主要贡献者"
+
+#: includes/templates/welcome.php:153
+msgid "Farhad Sakhaei"
+msgstr "Farhad Sakhaei"
+
+#: includes/templates/welcome.php:149
+msgid "Greg Ross"
+msgstr "Greg Ross"
+
+#: includes/templates/welcome.php:142
+msgid "Other Contributors"
+msgstr "其他贡献者"
+
+#: includes/templates/welcome.php:139
+msgid "Original Author"
+msgstr "原创作者"
+
+#: includes/templates/welcome.php:138
+msgid "Mostafa Soufi"
+msgstr "Mostafa Soufi"
+
+#: includes/templates/welcome.php:135
+msgid "Project Leaders"
+msgstr "项目领导者"
+
+#: includes/templates/welcome.php:134
+msgid "WP-Statistics is created by some people and is one of the <a href=\"%s\" target=\"_blank\">VeronaLabs.com</a> projects."
+msgstr "WP Statistics 由多人共同开发，同时它也是 <a href=\"%s\" target=\"_blank\">VeronaLabs.com</a> 的一个项目。"
+
+#: includes/templates/welcome.php:17
+msgid "Changelog"
+msgstr "更新日志"
+
+#: includes/templates/welcome.php:16
+msgid "Credits"
+msgstr "感谢"
+
+#: includes/log/widgets/about.php:20
+msgid "What’s New"
+msgstr "更新内容"
+
+#: includes/templates/welcome.php:11
+msgid "Version %s"
+msgstr "版本 %s"
+
+#: includes/templates/welcome.php:3
+msgid "Welcome to WP-Statistics&nbsp;%s"
+msgstr "欢迎使用 WP Statistics&nbsp;%s"
+
+#: includes/settings/tabs/wps-general.php:293
+msgid "After Content"
+msgstr "内容后"
+
+#: includes/settings/tabs/wps-general.php:288
+msgid "Before Content"
+msgstr "内容前"
+
+#: includes/settings/tabs/wps-general.php:279
+msgid "Display position:"
+msgstr "显示位置"
+
+#: includes/settings/tabs/wps-general.php:268
+msgid "Enable or disable show hits in content"
+msgstr "在内容之后启用或禁用显示匹配"
+
+#: includes/settings/tabs/wps-general.php:182
+msgid "Pages and Posts"
+msgstr "页面与文章"
+
+#: includes/log/page-statistics.php:56
+msgid "Select Page"
+msgstr "选择页面"
+
+#. Author URI of the plugin
+msgid "http://veronalabs.com/"
+msgstr "http://veronalabs.com/"
+
+#: includes/log/exclusions.php:98
+msgid "CronJob"
+msgstr "CronJob"
+
+#. Author of the plugin
+msgid "VeronaLabs"
+msgstr "VeronaLabs"
+
+#. Description of the plugin
+msgid "Complete WordPress Analytics and Statistics for your site!"
+msgstr "为您站点定制的完善的 WordPress 分析和统计工具！"
+
+#: includes/templates/postbox.php:4
+msgid "Subscribe to Newsletter"
+msgstr "订阅电子报 "
+
+#: includes/templates/postbox.php:16
+msgid "Subscribe"
+msgstr "订阅"
+
+#: includes/templates/postbox.php:10
+msgid "Subscribe to our mailing list for get any news of the WP-Statistics"
+msgstr "订阅邮件列表获取 WP-Statistics 新闻"
+
+#: includes/settings/tabs/wps-externals.php:48
+msgid "IP location services are provided by data created by %s."
+msgstr "由%s创建的数据提供的IP位置服务 "
+
+#: includes/settings/tabs/wps-about.php:17
+msgid "This product includes GeoLite2 data created by %s."
+msgstr "此产品包含由 %s 创建的 GeoLite2 数据。"
+
+#: includes/log/all-browsers.php:157 includes/log/all-browsers.php:285
+msgid "Platforms"
+msgstr "平台"
+
+#: includes/classes/class-wp-statistics-updates.php:102
+msgid "Error setting permissions of the GeoIP database directory, make sure your web server has permissions to write to directories in : %s"
+msgstr "设置GeoIP数据库目录权限时错误，请确保您的Web服务器有权限写入到目录：%s"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:263
+msgid "Add-On deactivated."
+msgstr "插件已禁用。"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:255
+msgid "Add-On activated."
+msgstr "插件已启用。"
+
+#: includes/templates/welcome.php:15
+#: includes/classes/class-wp-statistics-admin.php:577
+#: includes/classes/class-wp-statistics-admin.php:578
+msgid "Add-Ons"
+msgstr "插件"
+
+#: includes/classes/class-wp-statistics-admin.php:539
+msgid "Authors"
+msgstr "作者"
+
+#: includes/classes/class-wp-statistics-admin.php:533
+msgid "Tags"
+msgstr "标签"
+
+#: includes/classes/class-wp-statistics-admin.php:527
+msgid "Categories"
+msgstr "分类"
+
+#: includes/classes/class-wp-statistics-admin.php:245
+msgid "Database updates are required, please go to %soptimization page%s and update the following: %s"
+msgstr "需要更新数据库，请前往%s优化页面%s并更新以下内容：%s"
+
+#: includes/classes/class-wp-statistics.php:1417
+msgid "Please contact your hosting provider to upgrade to a supported version or disable WP Statistics to remove this message."
+msgstr "请联系您的主机提供商升级到支持的版本或禁用WP Statistics移除此信息。"
+
+#: includes/classes/class-wp-statistics.php:1415
+msgid "WP Statistics has detected PHP version %s which is unsupported, WP Statistics requires PHP Version %s or higher!"
+msgstr "WP Statistics 不支持您当前的PHP %s版本，WP Statistics 需要PHP %s 或更高版本！"
+
+#: includes/classes/class-wp-statistics.php:1411
+msgid "&#151; You are running an unsupported version of PHP."
+msgstr "&#151; 您正在使用不受支持的PHP版本。"
+
+#: includes/classes/class-wp-statistics.php:1411
+msgid "WP Statistics Disabled"
+msgstr "WP Statistics 已禁用"
+
+#: includes/classes/class-wp-statistics-widget.php:82
+#: includes/classes/class-wp-statistics-widget.php:310
+msgid "Last 365 Days Visits"
+msgstr "过去365天的访问量"
+
+#: includes/classes/class-wp-statistics-widget.php:75
+#: includes/classes/class-wp-statistics-widget.php:303
+msgid "Last 30 Days Visits"
+msgstr "过去30天的访问量"
+
+#: includes/classes/class-wp-statistics-widget.php:68
+#: includes/classes/class-wp-statistics-widget.php:296
+msgid "Last 7 Days Visits"
+msgstr "过去7天的访问量"
+
+#: includes/templates/add-ons.php:56
+msgid "Buy Add-On"
+msgstr "购买插件"
+
+#: includes/templates/add-ons.php:51
+msgid "Activate Add-On"
+msgstr "激活插件"
+
+#: includes/templates/add-ons.php:47
+msgid "Deactivate Add-On"
+msgstr "禁用插件"
+
+#: includes/templates/add-ons.php:38
+msgid "Inactive"
+msgstr "待用"
+
+#: includes/templates/add-ons.php:31
+msgid "Status:"
+msgstr "状态："
+
+#: includes/templates/add-ons.php:29
+msgid "Version:"
+msgstr "版本："
+
+#: includes/templates/plugins.php:4
+msgid "These extensions add functionality to your WP-Statistics."
+msgstr "这些扩展为您的 WP-Statistics 添加功能。"
+
+#: includes/templates/plugins.php:2
+msgid "Extensions for WP-Statistics"
+msgstr "WP Statistics 的扩展"
+
+#: includes/settings/tabs/wps-removal.php:103
+msgid "Reset the plugin options to the defaults. This will remove all user and global settings but will keep all other data. This action cannot be undone. Note: For multisite installs this will reset all sites to the defaults."
+msgstr "将插件选项重置为默认值。这将删除所有用户和全局设置，但将保留所有其他数据。此操作不能撤消。注意：对于多站点安装，这会将所有站点重置为默认值。 "
+
+#: includes/settings/tabs/wps-removal.php:101
+msgid "Reset"
+msgstr "重置"
+
+#: includes/settings/tabs/wps-removal.php:96
+msgid "Reset options:"
+msgstr "重置选项："
+
+#: includes/settings/tabs/wps-notifications.php:260
+#: includes/classes/class-wp-statistics-widget.php:40
+#: includes/classes/class-wp-statistics-widget.php:268
+#: includes/classes/class-wp-statistics.php:1454
+msgid "Today's Visits"
+msgstr "今日访问"
+
+#: includes/settings/tabs/wps-notifications.php:258
+#: includes/classes/class-wp-statistics-widget.php:47
+#: includes/classes/class-wp-statistics-widget.php:275
+#: includes/classes/class-wp-statistics.php:1450
+msgid "Today's Visitors"
+msgstr "今日访客"
+
+#: includes/settings/tabs/wps-notifications.php:256
+#: includes/classes/class-wp-statistics.php:1445
+msgid "Online User"
+msgstr "在线用户"
+
+#: includes/settings/tabs/wps-externals.php:116
+msgid "First Tuesday of next month"
+msgstr "下个月的第一个星期二"
+
+#: includes/settings/tabs/wps-externals.php:113
+#: includes/classes/class-wp-statistics-schedule.php:157
+msgid "First Tuesday of this month"
+msgstr "本月的第一个星期二"
+
+#: includes/settings/tabs/wps-exclusions.php:435
+msgid "Exclude any call to the WordPress AJAX system."
+msgstr "排除对WordPress AJAX系统的任何调用。"
+
+#: includes/settings/tabs/wps-exclusions.php:426
+msgid "Excluded AJAX calls:"
+msgstr "排除了AJAX调用"
+
+#: includes/settings/tabs/wps-exclusions.php:233
+msgid "Add fc00::/7"
+msgstr "添加fc00 :: / 7"
+
+#: includes/settings/tabs/wps-exclusions.php:222
+msgid "For IPv6 addresses use the fc00::/7 format."
+msgstr "对于IPv6地址，使用fc00 :: / 7格式。"
+
+#: includes/settings/tabs/wps-exclusions.php:217
+msgid "For IPv4 addresses, both 192.168.0.0/24 and 192.168.0.0/255.255.255.0 formats are accepted. To specify an IP address only, use a subnet value of 32 or 255.255.255.255."
+msgstr "对于IPv4地址，接受192.168.0.0/24和192.168.0.0/255.255.255.0格式。要仅指定IP地址，请使用子网值32或255.255.255.255。"
+
+#: includes/settings/tabs/wps-exclusions.php:212
+msgid "A list of IP addresses and subnet masks (one per line) to exclude from statistics collection."
+msgstr "从统计信息收集中排除的IP地址和子网掩码（每行一个）的列表。"
+
+#: includes/settings/tabs/wps-access-level.php:85
+msgid "See the %sWordPress Roles and Capabilities page%s for details on capability levels."
+msgstr "访问 %sWordPress 角色和功能页面%s了解有关用户级别的详细信息。"
+
+#: includes/settings/tabs/wps-about.php:152
+msgid "Then please open a new thread on the %sWordPress.org support forum%s and we'll respond as soon as possible."
+msgstr "然后请打开一个新的线程 %sWordPress.org 支持论坛%s 我们会尽快回复。"
+
+#: includes/settings/tabs/wps-about.php:144
+msgid "Did you view the source for the page and check for any fatal errors?"
+msgstr "难道您查看源代码的网页，并检查是否有任何致命错误？"
+
+#: includes/settings/tabs/wps-about.php:139
+msgid "Are you getting a blank or incomplete page displayed in your browser?"
+msgstr "难道您得到一个空白或不完整的页面中显示您的浏览器吗？"
+
+#: includes/settings/tabs/wps-about.php:117
+msgid "Have you search the %ssupport forum%s for a similar issue?"
+msgstr "您是否在%s支持论坛%s 中搜索了类似问题？"
+
+#: includes/settings/tabs/wps-about.php:112
+msgid "Documentation"
+msgstr "文档"
+
+#: includes/settings/tabs/wps-about.php:110
+msgid "Have you read the %sdocumentation%s?"
+msgstr "您读过%s文档%s吗？"
+
+#: includes/settings/tabs/wps-about.php:103
+msgid "Have you read the %sFAQs%s?"
+msgstr "您已阅读%s常见问题解答%s吗？"
+
+#: includes/settings/tabs/wps-about.php:81
+msgid "WP Statistics supports internationalization. Please visit %sWP Statistics translations page%s to help translation."
+msgstr "WP Statistics 支持语言国际化，请访问 %sWP Statistics翻译页面%s 以帮助翻译。"
+
+#: includes/settings/tabs/wps-about.php:65
+msgid "Thanks for installing WP Statistics, we encourage you to submit a %srating and review%s over at WordPress.org. Your feedback is greatly appreciated!"
+msgstr "感谢您安装 WP Statistics 。我们希望您可以在 WordPress.org 上提交 %s评分和评价%s ，非常感谢您的反馈！"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:183
+msgid "If the BCMath PHP extension is loaded, either GMP or BCMath is required for the GeoIP database to be read successfully."
+msgstr "如果加载了BCMath PHP扩展，则需要 GMP 或 BCMath 才能成功读取 GeoIP 数据库。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:173
+msgid "BCMath PHP extension"
+msgstr "BCMath PHP扩展"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:167
+msgid "If the GMP Math PHP extension is loaded, either GMP or BCMath is required for the GeoIP database to be read successfully."
+msgstr "如果加载了GMP Math PHP扩展，则需要 GMP 或 BCMath 才能成功读取 GeoIP 数据库。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:157
+msgid "GMP PHP extension"
+msgstr "GMP PHP扩展"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:151
+msgid "If the gzopen() function is installed. The gzopen() function is required for the GeoIP database to be downloaded successfully."
+msgstr "如果安装了 gzopen() 函数，则需要使用 gzopen() 才能成功下载 GeoIP 数据库。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:141
+msgid "Zlib gzopen()"
+msgstr "Zlib gzopen()"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:101
+msgid "Is PHP compiled with IPv6 support. You may see warning messages in your PHP log if it is not and you receive HTTP headers with IPv6 addresses in them."
+msgstr "PHP是否支持IPv6编译。  如果您的 PHP日志中没有，并且您收到其中包含IPv6地址的HTTP标头，您可能会在PHP日志中看到警告消息。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:91
+msgid "PHP IPv6 Enabled"
+msgstr "启用PHP IPv6"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:14
+msgid "Bytes"
+msgstr "字节"
+
+#: includes/log/widgets/summary.php:90
+msgid "Last 365 Days:"
+msgstr "过去365天："
+
+#: includes/log/widgets/summary.php:76
+msgid "Last 30 Days:"
+msgstr "过去30天："
+
+#: includes/log/widgets/summary.php:62
+msgid "Last 7 Days:"
+msgstr "过去7天："
+
+#: includes/classes/class-wp-statistics-admin-pages.php:33
+#: includes/log/top-visitors.php:51
+msgid "Top Visitors"
+msgstr "热门访问者"
+
+#: includes/log/top-referring.php:112
+msgid "Referring site: %s"
+msgstr "推荐站点：%s"
+
+#: includes/log/tags.php:213
+msgid "Tag Posts Sorted by Hits"
+msgstr "标签 文章按点击排序"
+
+#: includes/log/tags.php:179
+msgid "Number of posts in tag:"
+msgstr "数文章在标签"
+
+#: includes/log/tags.php:160
+msgid "Tag Statistics Summary"
+msgstr "标签统计摘要"
+
+#: includes/log/tags.php:97
+msgid "Tag Statistics Chart"
+msgstr "标记统计图表"
+
+#: includes/log/tags.php:22
+msgid "Select Tag"
+msgstr "选择标签"
+
+#: includes/log/tags.php:7
+msgid "Tag Statistics"
+msgstr "标签统计"
+
+#: includes/log/search-statistics.php:106 includes/log/widgets/search.php:78
+msgid "Search engine referrals in the last %s days"
+msgstr "最后的搜索引擎推介 %s 天"
+
+#: includes/functions/functions.php:1909
+msgid "Page %1$s of %2$s"
+msgstr "页 %1$s 的 %2$s"
+
+#: includes/log/exclusions.php:97
+msgid "AJAX Request"
+msgstr "AJAX请求"
+
+#: includes/log/categories.php:197
+msgid "Category Posts Sorted by Hits"
+msgstr "类别 文章按点击排序"
+
+#: includes/log/categories.php:163
+msgid "Number of posts in category:"
+msgstr "数文章在类别"
+
+#: includes/log/categories.php:144
+msgid "Category Statistics Summary"
+msgstr "类别统计摘要"
+
+#: includes/log/categories.php:81
+msgid "Category Statistics Chart"
+msgstr "类别统计图表"
+
+#: includes/log/categories.php:21
+msgid "Select Category"
+msgstr "选择类别"
+
+#: includes/log/categories.php:7
+msgid "Category Statistics"
+msgstr "类别统计"
+
+#: includes/log/categories.php:211 includes/log/tags.php:227
+#: includes/log/authors.php:224
+msgid "Post Title"
+msgstr "文章标题"
+
+#: includes/log/authors.php:210
+msgid "Author Posts Sorted by Hits"
+msgstr "作者文章排序点击"
+
+#: includes/log/categories.php:175 includes/log/tags.php:191
+#: includes/log/authors.php:188
+msgid "All Time Visits Total:"
+msgstr "所有时间访问总数"
+
+#: includes/log/categories.php:169 includes/log/tags.php:185
+#: includes/log/authors.php:182
+msgid "Chart Visits Total:"
+msgstr "图表访问总数"
+
+#: includes/log/authors.php:176
+msgid "Number of posts by author:"
+msgstr "作者的文章数量"
+
+#: includes/log/categories.php:159 includes/log/tags.php:175
+#: includes/log/authors.php:172
+msgid "Count"
+msgstr "计数"
+
+#: includes/log/authors.php:157
+msgid "Author Statistics Summary"
+msgstr "作者统计摘要"
+
+#: includes/log/authors.php:94
+msgid "Author Statistics Chart"
+msgstr "作者统计图表"
+
+#: includes/log/categories.php:29 includes/log/tags.php:45
+#: includes/log/authors.php:42 includes/log/page-statistics.php:62
+msgid "Select"
+msgstr "选择"
+
+#: includes/log/authors.php:22
+msgid "Select Author"
+msgstr "选择作者"
+
+#: includes/log/authors.php:8
+msgid "Author Statistics"
+msgstr "作者统计"
+
+#: includes/log/search-statistics.php:49 includes/log/last-search.php:69
+#: includes/log/top-pages.php:48 includes/log/top-pages.php:112
+#: includes/log/categories.php:84 includes/log/categories.php:147
+#: includes/log/categories.php:200 includes/log/tags.php:100
+#: includes/log/tags.php:163 includes/log/tags.php:216
+#: includes/log/last-visitor.php:95 includes/log/top-countries.php:67
+#: includes/log/online.php:14 includes/log/top-visitors.php:54
+#: includes/log/top-referring.php:119 includes/log/authors.php:97
+#: includes/log/authors.php:160 includes/log/authors.php:213
+#: includes/log/exclusions.php:167 includes/log/exclusions.php:235
+#: includes/log/page-statistics.php:74 includes/log/all-browsers.php:87
+#: includes/log/all-browsers.php:140 includes/log/all-browsers.php:268
+#: includes/log/hit-statistics.php:48 includes/log/hit-statistics.php:123
+msgid "Toggle panel: %s"
+msgstr "切换面板：%s"
+
+#: includes/functions/country-codes.php:7
+msgctxt "Country"
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/classes/class-wp-statistics.php:1139
+#: includes/classes/class-wp-statistics.php:1173
+msgctxt "Search Engine"
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/classes/class-wp-statistics-rest.php:113
+#: includes/classes/class-wp-statistics.php:919
+msgctxt "Version"
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/classes/class-wp-statistics-rest.php:112
+#: includes/classes/class-wp-statistics.php:918
+msgctxt "Platform"
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/classes/class-wp-statistics-rest.php:111
+#: includes/classes/class-wp-statistics.php:917
+msgctxt "Browser"
+msgid "Unknown"
+msgstr "未知"
+
+#: includes/classes/class-wp-statistics-editor.php:119
+#: includes/classes/class-wp-statistics-admin-pages.php:206
+msgid "More Details"
+msgstr "更多细节"
+
+#: includes/classes/class-wp-statistics-editor.php:117
+#: includes/classes/class-wp-statistics-admin-pages.php:205
+msgid "Reload"
+msgstr "刷新"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:220
+msgid "Reloading..."
+msgstr "重装..."
+
+#: includes/classes/class-wp-statistics-ajax.php:427
+msgid "ERROR: Widget not found!"
+msgstr "错误：未找到小工具！"
+
+#: includes/classes/class-wp-statistics-ajax.php:345
+msgid "No matching widget found!"
+msgstr "找不到匹配的小工具！"
+
+#. Plugin URI of the plugin
+msgid "https://wp-statistics.com/"
+msgstr "https://wp-statistics.com/"
+
+#: includes/classes/class-wp-statistics-updates.php:200
+msgid "GeoIP update on"
+msgstr "GeoIP更新于"
+
+#: includes/classes/class-wp-statistics-updates.php:166
+msgid "GeoIP Database updated successfully!"
+msgstr "GeoIP数据库更新成功！"
+
+#: includes/classes/class-wp-statistics-updates.php:148
+msgid "Error could not open destination GeoIP database for writing %s"
+msgstr "错误：无法打开%s进行GeoIP数据库读写"
+
+#: includes/classes/class-wp-statistics-updates.php:135
+msgid "Error could not open downloaded GeoIP database for reading: %s"
+msgstr "无法读取已下载的GeoIP数据库：%s"
+
+#: includes/classes/class-wp-statistics-updates.php:119
+msgid "Error downloading GeoIP database from: %s - %s"
+msgstr "下载 GeoIP 数据库时出错： %s-%s"
+
+#: includes/classes/class-wp-statistics-updates.php:90
+msgid "Error creating GeoIP database directory, make sure your web server has permissions to create directories in: %s"
+msgstr "创建GeoIP数据库目录失败。确认您的web服务器在:%s有创建目录的权限。"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:582
+msgid "The following plugin table(s) do not exist in the database, please re-run the %s install routine %s:"
+msgstr "在数据库中找不到下列插件的数据表，请再次运行 %s 来安装 %s ："
+
+#: includes/classes/class-wp-statistics-admin-pages.php:302
+#: includes/classes/class-wp-statistics-admin-pages.php:327
+#: includes/classes/class-wp-statistics-admin-pages.php:528
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: includes/classes/class-wp-statistics.php:1466
+msgid "View Stats"
+msgstr "查看统计数据"
+
+#: includes/classes/class-wp-statistics-network-admin.php:50
+msgid "Options"
+msgstr "选项"
+
+#: includes/classes/class-wp-statistics-network-admin.php:49
+msgid "Site"
+msgstr "站点"
+
+#: includes/classes/class-wp-statistics-network-admin.php:70
+#: includes/classes/class-wp-statistics-admin.php:563
+#: includes/optimization/wps-optimization.php:231
+msgid "Optimization"
+msgstr "优化"
+
+#: includes/classes/class-wp-statistics-network-admin.php:68
+#: includes/classes/class-wp-statistics-admin.php:551
+msgid "Top Visitors Today"
+msgstr "今日访客排行"
+
+#: includes/classes/class-wp-statistics-network-admin.php:62
+#: includes/classes/class-wp-statistics-admin.php:497
+msgid "Search Words"
+msgstr "搜索关键词"
+
+#: includes/classes/class-wp-statistics-network-admin.php:61
+#: includes/classes/class-wp-statistics-admin.php:491
+msgid "Referrers"
+msgstr "反向链接"
+
+#: includes/classes/class-wp-statistics-network-admin.php:60
+#: includes/classes/class-wp-statistics-admin.php:485
+msgid "Online"
+msgstr "在线"
+
+#: includes/classes/class-wp-statistics-network-admin.php:22
+#: includes/classes/class-wp-statistics-network-admin.php:58
+#: includes/classes/class-wp-statistics-admin.php:473
+msgid "Overview"
+msgstr "总览"
+
+#: includes/classes/class-wp-statistics-admin.php:436
+msgid "WP Statistics - Hits"
+msgstr "WP Statistics - 点击数"
+
+#: includes/classes/class-wp-statistics-admin.php:381
+msgid "Rate this plugin"
+msgstr "评价此插件"
+
+#: includes/classes/class-wp-statistics-admin.php:381
+msgid "Click here to rate and review this plugin on WordPress.org"
+msgstr "单击此处打分和评论这上好的插件"
+
+#: includes/classes/class-wp-statistics-admin.php:379
+msgid "Visit WordPress.org page"
+msgstr "访问 WordPress.org 页面"
+
+#: includes/classes/class-wp-statistics-admin.php:379
+msgid "Click here to visit the plugin on WordPress.org"
+msgstr "点击这里访问插件上好"
+
+#: includes/settings/wps-settings.php:23
+#: includes/classes/class-wp-statistics-network-admin.php:71
+#: includes/classes/class-wp-statistics-admin.php:361
+#: includes/classes/class-wp-statistics-admin.php:570
+msgid "Settings"
+msgstr "设置"
+
+#: includes/classes/class-wp-statistics-admin.php:706
+msgid "WP Statistics %s installed on"
+msgstr "WP Statistics %s 已安装在"
+
+#: includes/classes/class-wp-statistics-admin.php:235
+msgid "visit database index"
+msgstr "访问数据库索引"
+
+#: includes/classes/class-wp-statistics-admin.php:234
+msgid "countries database index"
+msgstr "国家/地区数据库索引"
+
+#: includes/classes/class-wp-statistics-admin.php:225
+msgid "search table"
+msgstr "搜索表"
+
+#: includes/classes/class-wp-statistics-admin.php:217
+#: includes/classes/class-wp-statistics-admin.php:245
+msgid ","
+msgstr "，"
+
+#: includes/classes/class-wp-statistics-admin.php:217
+msgid "The following features are disabled, please go to %ssettings page%s and enable them: %s"
+msgstr "下列功能已被禁用，请转到%s设置页面%s启用它们：%s"
+
+#: includes/classes/class-wp-statistics-admin.php:213
+msgid "geoip collection"
+msgstr "geoip采集"
+
+#: includes/classes/class-wp-statistics-admin.php:210
+msgid "visitor tracking"
+msgstr "访客跟踪"
+
+#: includes/classes/class-wp-statistics-admin.php:207
+msgid "hit tracking"
+msgstr "命中跟踪"
+
+#: includes/classes/class-wp-statistics-admin.php:204
+msgid "online user tracking"
+msgstr "在线用户跟踪"
+
+#: includes/classes/class-wp-statistics-admin.php:129
+msgid "WP Statistics has been removed, please disable and delete it."
+msgstr "WP Statistics 已被移除，请禁用并删除它。"
+
+#. Plugin Name of the plugin
+msgid "WP Statistics"
+msgstr "WP Statistics"
+
+#: includes/classes/class-wp-statistics-widget.php:343
+msgid "Select type of search engine"
+msgstr "选择搜寻引擎种类"
+
+#: includes/classes/class-wp-statistics-widget.php:254
+msgid "Items"
+msgstr "条目"
+
+#: includes/classes/class-wp-statistics-widget.php:248
+msgid "Name"
+msgstr "名称"
+
+#: includes/classes/class-wp-statistics-widget.php:146
+#: includes/classes/class-wp-statistics-widget.php:399
+msgid "Total Users"
+msgstr "总计用户"
+
+#: includes/classes/class-wp-statistics-widget.php:139
+#: includes/classes/class-wp-statistics-widget.php:392
+msgid "Total Spams"
+msgstr "总计垃圾"
+
+#: includes/classes/class-wp-statistics-widget.php:132
+#: includes/classes/class-wp-statistics-widget.php:385
+msgid "Total Comments"
+msgstr "评论总数"
+
+#: includes/classes/class-wp-statistics-widget.php:125
+#: includes/classes/class-wp-statistics-widget.php:378
+msgid "Total Pages"
+msgstr "总计页面"
+
+#: includes/classes/class-wp-statistics-widget.php:118
+#: includes/classes/class-wp-statistics-widget.php:371
+msgid "Total Posts"
+msgstr "总计文章"
+
+#: includes/classes/class-wp-statistics-widget.php:103
+#: includes/classes/class-wp-statistics-widget.php:331
+msgid "Total Page Views"
+msgstr "总浏览量"
+
+#: includes/classes/class-wp-statistics-widget.php:12
+msgid "Show site stats in sidebar."
+msgstr "在侧边栏显示站点统计。"
+
+#: includes/classes/class-wp-statistics-network-admin.php:19
+#: includes/classes/class-wp-statistics-widget.php:11
+#: includes/classes/class-wp-statistics-admin.php:466
+msgid "Statistics"
+msgstr "统计"
+
+#: includes/classes/class-wp-statistics-shortcode.php:214
+#: includes/classes/class-wp-statistics-tinymce.php:63
+msgid "The post/page ID to get page statistics on."
+msgstr "用于获取页面统计信息的文章/页面 ID 。"
+
+#: includes/classes/class-wp-statistics-shortcode.php:211
+msgid "Post/Page ID"
+msgstr "文章/页面ID"
+
+#: includes/classes/class-wp-statistics-shortcode.php:207
+msgid "International"
+msgstr "国际"
+
+#: includes/classes/class-wp-statistics-shortcode.php:206
+msgid "English"
+msgstr "英语"
+
+#: includes/classes/class-wp-statistics-shortcode.php:199
+#: includes/classes/class-wp-statistics-tinymce.php:61
+msgid "The format to display numbers in: i18n, english, none."
+msgstr "显示数字的格式：i18n，英文，无。"
+
+#: includes/classes/class-wp-statistics-shortcode.php:196
+msgid "Number Format"
+msgstr "数字格式"
+
+#: includes/classes/class-wp-statistics-shortcode.php:192
+#: includes/classes/class-wp-statistics-tinymce.php:59
+msgid "The search provider to get statistics on."
+msgstr "搜索提供商获取统计信息。"
+
+#: includes/classes/class-wp-statistics-shortcode.php:189
+msgid "Search Provider"
+msgstr "搜索提供商"
+
+#: includes/classes/class-wp-statistics-shortcode.php:182
+msgid "The time frame to get the statistic for, strtotime() (http://php.net/manual/en/datetime.formats.php) will be used to calculate it. Use \"total\" to get all recorded dates."
+msgstr "获取strtotime()（http://php.net/manual/en/datetime.formats.php）统计信息的时间范围将用于计算它。使用“总计”获取所有记录的日期。"
+
+#: includes/functions/functions.php:1492 includes/functions/functions.php:1494
+#: includes/classes/class-wp-statistics-shortcode.php:179
+msgid "Time Frame"
+msgstr "大体时间"
+
+#: includes/classes/class-wp-statistics-shortcode.php:174
+#: includes/classes/class-wp-statistics-tinymce.php:46
+#: includes/classes/class-wp-statistics-widget.php:174
+#: includes/classes/class-wp-statistics-widget.php:427
+msgid "Last Post Date"
+msgstr "最后发表日期"
+
+#: includes/classes/class-wp-statistics-shortcode.php:173
+#: includes/classes/class-wp-statistics-tinymce.php:45
+#: includes/classes/class-wp-statistics-widget.php:167
+#: includes/classes/class-wp-statistics-widget.php:420
+msgid "User Average"
+msgstr "用户平均"
+
+#: includes/classes/class-wp-statistics-shortcode.php:172
+#: includes/classes/class-wp-statistics-tinymce.php:44
+#: includes/classes/class-wp-statistics-widget.php:160
+#: includes/classes/class-wp-statistics-widget.php:413
+msgid "Comment Average"
+msgstr "评论平均"
+
+#: includes/classes/class-wp-statistics-shortcode.php:171
+#: includes/classes/class-wp-statistics-tinymce.php:43
+#: includes/classes/class-wp-statistics-widget.php:153
+#: includes/classes/class-wp-statistics-widget.php:406
+msgid "Post Average"
+msgstr "文章平均"
+
+#: includes/classes/class-wp-statistics-shortcode.php:170
+#: includes/classes/class-wp-statistics-tinymce.php:42
+msgid "User Count"
+msgstr "用户数量"
+
+#: includes/classes/class-wp-statistics-shortcode.php:169
+#: includes/classes/class-wp-statistics-tinymce.php:41
+msgid "Spam Count"
+msgstr "垃圾邮件数量"
+
+#: includes/classes/class-wp-statistics-shortcode.php:168
+#: includes/classes/class-wp-statistics-tinymce.php:40
+msgid "Comment Count"
+msgstr "评论计数"
+
+#: includes/classes/class-wp-statistics-shortcode.php:167
+#: includes/classes/class-wp-statistics-tinymce.php:39
+msgid "Page Count"
+msgstr "页面数量"
+
+#: includes/classes/class-wp-statistics-shortcode.php:166
+#: includes/classes/class-wp-statistics-tinymce.php:38
+msgid "Post Count"
+msgstr "文章数量"
+
+#: includes/classes/class-wp-statistics-shortcode.php:165
+#: includes/classes/class-wp-statistics-network-admin.php:63
+#: includes/classes/class-wp-statistics-tinymce.php:37
+msgid "Searches"
+msgstr "搜索"
+
+#: includes/classes/class-wp-statistics-shortcode.php:164
+#: includes/classes/class-wp-statistics-tinymce.php:36
+msgid "Page Visits"
+msgstr "页面访问量"
+
+#: includes/classes/class-wp-statistics-shortcode.php:158
+msgid "Select the statistic you wish to display."
+msgstr "请选择您希望显示的统计数据。"
+
+#: includes/classes/class-wp-statistics-shortcode.php:155
+msgid "Statistic"
+msgstr "统计"
+
+#: includes/classes/class-wp-statistics-schedule.php:123
+msgid "Once Every 4 Weeks"
+msgstr "每隔 4 周"
+
+#: includes/classes/class-wp-statistics-schedule.php:116
+msgid "Once Every 2 Weeks"
+msgstr "每隔 2 周"
+
+#: includes/classes/class-wp-statistics-schedule.php:109
+msgid "Once Weekly"
+msgstr "一次每周"
+
+#: includes/settings/wps-settings.php:42
+msgid "Removal"
+msgstr "移除"
+
+#: includes/settings/wps-settings.php:41
+msgid "Maintenance"
+msgstr "维护"
+
+#: includes/settings/wps-settings.php:40
+msgid "Externals"
+msgstr "访问识别"
+
+#: includes/settings/wps-settings.php:36
+msgid "Notifications"
+msgstr "通知"
+
+#: includes/settings/wps-settings.php:33
+msgid "General"
+msgstr "通用设置"
+
+#: includes/settings/tabs/wps-removal.php:119
+msgid "Remove data and settings, this action cannot be undone."
+msgstr "删除所有数据与设置，此操作不可撤销。"
+
+#: includes/settings/tabs/wps-removal.php:117
+msgid "Remove"
+msgstr "删除"
+
+#: includes/settings/tabs/wps-removal.php:112
+msgid "Remove data and settings:"
+msgstr "删除数据和设置："
+
+#: includes/settings/tabs/wps-removal.php:87
+msgid "Once you submit this form the settings will be deleted during the page load, however WP Statistics will still show up in your Admin menu until another page load is executed."
+msgstr "一旦您提交此表单，插件设定将在页面加载期间被删除，但WP Statistics仍然会在您的管理菜单中显示，直到刷新另一个页面为止。"
+
+#: includes/settings/tabs/wps-removal.php:81
+msgid "Uninstalling WP Statistics will not remove the data and settings, you can use this option to remove the WP Statistics data from your install before uninstalling the plugin."
+msgstr "卸载 WP Statistics 插件的同时并不会删除相关数据与设置，若您需要安装 WP Statistics 的新版本，可以使用此功能来清除旧版本相关数据，以免造成异常。"
+
+#: includes/settings/tabs/wps-removal.php:76
+msgid "WP Statisitcs Removal"
+msgstr "移除 WP Statisitcs"
+
+#: includes/settings/tabs/wps-overview-display.php:97
+msgid "Disable the map display"
+msgstr "禁用map显示"
+
+#: includes/settings/tabs/wps-overview-display.php:88
+msgid "Disable map:"
+msgstr "禁用map"
+
+#: includes/settings/tabs/wps-overview-display.php:71
+msgid "Disable the page/post editor widget."
+msgstr "禁用页面 / 文章 编辑器 小部件。"
+
+#: includes/settings/tabs/wps-overview-display.php:62
+msgid "Disable post/page editor widget:"
+msgstr "禁用文章/页面小工具"
+
+#: includes/settings/tabs/wps-overview-display.php:50
+msgid "Page/Post Editor"
+msgstr "页面 / 文章 编辑器"
+
+#: includes/settings/tabs/wps-overview-display.php:45
+msgid "Disable the dashboard widgets."
+msgstr "禁用仪表盘小工具。"
+
+#: includes/settings/tabs/wps-overview-display.php:36
+msgid "Disable dashboard widgets:"
+msgstr "禁用仪表盘小工具"
+
+#: includes/settings/tabs/wps-overview-display.php:28
+#: includes/settings/tabs/wps-overview-display.php:54
+#: includes/settings/tabs/wps-overview-display.php:80
+msgid "The following items are global to all users."
+msgstr "以下项目对所有用户有效。"
+
+#: includes/settings/tabs/wps-overview-display.php:24
+#: includes/settings/wps-settings.php:37
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: includes/settings/wps-settings.php:44
+msgid "About"
+msgstr "关于"
+
+#: includes/classes/class-wp-statistics-shortcode.php:205
+msgid "None"
+msgstr "没有一个"
+
+#: includes/settings/tabs/wps-notifications.php:268
+#: includes/classes/class-wp-statistics-widget.php:89
+#: includes/classes/class-wp-statistics-widget.php:317
+msgid "Total Visits"
+msgstr "累计访问"
+
+#: includes/settings/tabs/wps-notifications.php:266
+#: includes/classes/class-wp-statistics-widget.php:96
+#: includes/classes/class-wp-statistics-widget.php:324
+msgid "Total Visitors"
+msgstr "累计访客"
+
+#: includes/settings/tabs/wps-notifications.php:264
+#: includes/classes/class-wp-statistics-widget.php:54
+#: includes/classes/class-wp-statistics-widget.php:282
+#: includes/classes/class-wp-statistics.php:1462
+msgid "Yesterday's Visits"
+msgstr "昨日访问"
+
+#: includes/settings/tabs/wps-notifications.php:262
+#: includes/classes/class-wp-statistics-widget.php:61
+#: includes/classes/class-wp-statistics-widget.php:289
+#: includes/classes/class-wp-statistics.php:1458
+msgid "Yesterday's Visitors"
+msgstr "昨日访客"
+
+#: includes/settings/tabs/wps-notifications.php:252
+msgid "Any shortcode supported by your installation of WordPress, include all shortcodes for WP Statistics (see the documentation for a list of codes available) are supported in the body of the message. Here are some examples:"
+msgstr "您安装的WordPress 支持的任何短代码都包含WP统计信息的所有简码（请参阅文档以获取可用代码列表）。这里有些例子："
+
+#: includes/settings/tabs/wps-notifications.php:249
+msgid "Enter the contents of the report."
+msgstr "输入报告的内容"
+
+#: includes/settings/tabs/wps-notifications.php:227
+msgid "WordPress SMS"
+msgstr "WordPress SMS"
+
+#: includes/settings/tabs/wps-notifications.php:225
+msgid "Note: To send SMS text messages please install the %s plugin."
+msgstr "注意： 若要发送 SMS 文本消息请安装 %s 插件。"
+
+#: includes/settings/tabs/wps-notifications.php:218
+msgid "Select delivery method for statistical report."
+msgstr "选择统计报告的交付方式。"
+
+#: includes/settings/tabs/wps-notifications.php:214
+msgid "SMS"
+msgstr "SMS"
+
+#: includes/settings/tabs/wps-notifications.php:206
+msgid "Email"
+msgstr "电子邮件"
+
+#: includes/settings/tabs/wps-notifications.php:197
+msgid "Send reports via:"
+msgstr "发送通过报告"
+
+#: includes/settings/tabs/wps-notifications.php:191
+msgid "Select how often to receive statistical report."
+msgstr "选择接收统计报告的频率。"
+
+#: includes/settings/tabs/wps-notifications.php:159
+msgid "Schedule:"
+msgstr "计划任务："
+
+#: includes/settings/tabs/wps-notifications.php:135
+#: includes/classes/class-wp-statistics-schedule.php:236
+msgid "Statistical reporting"
+msgstr "统计报告"
+
+#: includes/settings/tabs/wps-notifications.php:127
+msgid "Send a report whenever the plugin is upgraded."
+msgstr "当插件更新时给我发送通知。"
+
+#: includes/settings/tabs/wps-notifications.php:119
+msgid "Upgrade:"
+msgstr "升级："
+
+#: includes/settings/tabs/wps-notifications.php:110
+msgid "Send a report whenever the pruning of database is run."
+msgstr "每当修剪数据库运行时发送报告。"
+
+#: includes/settings/tabs/wps-notifications.php:102
+msgid "Pruning:"
+msgstr "修剪"
+
+#: includes/settings/tabs/wps-notifications.php:93
+msgid "Send a report whenever the GeoIP database is updated."
+msgstr "当 GeoIP 数据库更新时给我发送通知。"
+
+#: includes/settings/tabs/wps-notifications.php:80
+msgid "Update Reports"
+msgstr "升级报告"
+
+#: includes/settings/tabs/wps-notifications.php:72
+msgid "A comma separated list of e-mail addresses to send reports to."
+msgstr "使用逗号分隔接受报告邮件的邮箱地址。"
+
+#: includes/settings/tabs/wps-notifications.php:63
+msgid "E-mail addresses:"
+msgstr "电子邮件地址"
+
+#: includes/settings/tabs/wps-notifications.php:58
+msgid "Common Report Options"
+msgstr "常见报告选项"
+
+#: includes/settings/tabs/wps-maintenance.php:101
+msgid "A WP Cron job will be run daily to purge any users statistics data where the user has more than the defined number of hits in a day (aka they are probably a bot)."
+msgstr "设置WP每日定时任务，清除点击数大于设置值的用户统计数据（这种情况一般是bot）。"
+
+#: includes/settings/tabs/wps-maintenance.php:85
+msgid "Purge High Hit Count Visitors Daily"
+msgstr "每日清除高命中次数访问者"
+
+#: includes/settings/tabs/wps-maintenance.php:70
+#: includes/optimization/tabs/wps-optimization-purging.php:246
+msgid "Days"
+msgstr "天"
+
+#: includes/settings/tabs/wps-maintenance.php:61
+msgid "Purge data older than:"
+msgstr "清除比之前更新的数据"
+
+#: includes/settings/tabs/wps-maintenance.php:52
+msgid "A WP Cron job will be run daily to purge any data older than a set number of days."
+msgstr "设置WP每日定时任务，清除任何早于设置天数的数据。"
+
+#: includes/settings/tabs/wps-maintenance.php:43
+#: includes/settings/tabs/wps-maintenance.php:91
+msgid "Enabled:"
+msgstr "已启用："
+
+#: includes/settings/tabs/wps-maintenance.php:38
+msgid "Purge Old Data Daily"
+msgstr "每日清除旧数据"
+
+#: includes/settings/tabs/wps-maintenance.php:28
+msgid "This will permanently delete data from the database each day, are you sure you want to enable this option?"
+msgstr "此选项将每天定时从数据库永久删除数据，您确定要启用此选项吗？"
+
+#: includes/settings/tabs/wps-general.php:440
+msgid "Add a total line to charts with multiple values, like the search engine referrals"
+msgstr "用多个不用的值在图表中增加一个总行，例如像搜索引擎引用数"
+
+#: includes/settings/tabs/wps-general.php:432
+msgid "Include totals:"
+msgstr "包含总数"
+
+#: includes/settings/tabs/wps-general.php:427
+msgid "Charts"
+msgstr "图表"
+
+#: includes/settings/tabs/wps-general.php:419
+msgid "Disable %s from data collection and reporting."
+msgstr "禁用来自%s的数据收集和报告。"
+
+#: includes/settings/tabs/wps-overview-display.php:43
+#: includes/settings/tabs/wps-overview-display.php:69
+#: includes/settings/tabs/wps-overview-display.php:95
+#: includes/settings/tabs/wps-general.php:238
+#: includes/settings/tabs/wps-general.php:413
+msgid "Disable"
+msgstr "禁用"
+
+#: includes/settings/tabs/wps-general.php:392
+msgid "Disabling all search engines is not allowed, doing so will result in all search engines being active."
+msgstr "不允许禁用所有搜索引擎，这样做会使所有的搜索引擎启用。"
+
+#: includes/settings/tabs/wps-general.php:383
+msgid "If a search engine is identified as the referrer but it does not include the search query this option will substitute the page title in quotes preceded by \"~:\" as the search query to help identify what the user may have been searching for."
+msgstr "如果搜索引擎被识别为引荐来源，但不包含搜索查询，则此选项将用引号中的“〜：” 替代页面标题作为搜索查询，以帮助识别用户可能搜索的内容。"
+
+#: includes/settings/tabs/wps-general.php:375
+msgid "Add page title to empty search words:"
+msgstr "添加页面标题来清除搜索词"
+
+#: includes/settings/tabs/wps-general.php:370
+#: includes/classes/class-wp-statistics-admin.php:503
+msgid "Search Engines"
+msgstr "搜索引擎"
+
+#: includes/settings/tabs/wps-general.php:362
+msgid "By default WP Statistics displays an alert if any of the core features are disabled on every admin page, this option will disable these notices."
+msgstr "默认情况下 WP 统计显示一条警报，如果任何核心功能被禁用每个管理员页面上，此选项将禁用这些通告。"
+
+#: includes/settings/tabs/wps-general.php:354
+msgid "Hide admin notices about non active features:"
+msgstr "不向管理员同志未启用的特性"
+
+#: includes/settings/tabs/wps-general.php:348
+msgid "Show stats in admin menu bar"
+msgstr "在管理员菜单栏显示统计信息"
+
+#: includes/settings/tabs/wps-general.php:318
+#: includes/settings/tabs/wps-general.php:342
+#: includes/optimization/tabs/wps-optimization-resources.php:80
+#: includes/optimization/tabs/wps-optimization-resources.php:96
+msgid "Yes"
+msgstr "是"
+
+#: includes/settings/tabs/wps-general.php:338
+#: includes/optimization/tabs/wps-optimization-resources.php:82
+#: includes/optimization/tabs/wps-optimization-resources.php:98
+msgid "No"
+msgstr "否"
+
+#: includes/settings/tabs/wps-general.php:333
+msgid "Show stats in menu bar:"
+msgstr "在菜单栏中显示统计信息："
+
+#: includes/settings/tabs/wps-general.php:328
+msgid "Miscellaneous"
+msgstr "杂项"
+
+#: includes/settings/tabs/wps-general.php:224
+msgid "This will remove anything after the ? in a URL."
+msgstr "这会删除链接中 \"?\" 之后的所有内容。"
+
+#: includes/settings/tabs/wps-general.php:217
+msgid "Strip parameters from URI:"
+msgstr "从URI中剥离参数"
+
+#: includes/settings/tabs/wps-general.php:200
+msgid "Track all pages:"
+msgstr "跟踪所有页面："
+
+#: includes/classes/class-wp-statistics-network-admin.php:64
+#: includes/classes/class-wp-statistics-admin.php:509
+msgid "Pages"
+msgstr "页面"
+
+#: includes/settings/tabs/wps-general.php:175
+msgid "For each visit to account for several hits. Currently %s."
+msgstr "每一次访问计算为多少次访问，当前值：%s 。"
+
+#: includes/settings/tabs/wps-general.php:168
+msgid "Coefficient per visitor:"
+msgstr "访客系数"
+
+#: includes/settings/tabs/wps-privacy.php:75
+msgid "Store entire user agent string:"
+msgstr "保存所有用户代理信息"
+
+#: includes/settings/tabs/wps-general.php:112
+msgid "Ignores the exclusion settings and records all users that are online (including self referrals and robots). Should only be used for troubleshooting."
+msgstr "忽略排除设置并记录所有联机用户（包括自我引荐和机器人）。只应用于故障排除。"
+
+#: includes/settings/tabs/wps-general.php:104
+msgid "Record all user:"
+msgstr "记录所有用户："
+
+#: includes/settings/tabs/wps-general.php:96
+msgid "Time for the check accurate online user in the site. Now: %s Seconds"
+msgstr "检查有效在线用户的时间间隔。当前设置：每隔 %s 秒"
+
+#: includes/settings/tabs/wps-general.php:94
+msgid "Seconds"
+msgstr "秒"
+
+#: includes/settings/tabs/wps-general.php:89
+msgid "Check for online users every:"
+msgstr "检查在线用户间隔"
+
+#: includes/settings/tabs/wps-general.php:83
+#: includes/settings/tabs/wps-general.php:132
+#: includes/settings/tabs/wps-general.php:149
+#: includes/settings/tabs/wps-general.php:194
+#: includes/settings/tabs/wps-general.php:207
+#: includes/settings/tabs/wps-general.php:240
+#: includes/settings/tabs/wps-notifications.php:148
+msgid "Enable or disable this feature"
+msgstr "启用或禁用此功能"
+
+#: includes/settings/tabs/wps-externals.php:305
+msgid "Download of the Matomo Referrer Spam Blacklist database will be scheduled for once a week."
+msgstr "计划每周一次下载Matomo Referrer Spam黑名单数据库。"
+
+#: includes/settings/tabs/wps-externals.php:262
+msgid "Update Matomo Referrer Spam Blacklist Info:"
+msgstr "更新 Matomo Referrer Spam 黑名单信息"
+
+#: includes/settings/tabs/wps-externals.php:253
+msgid "The Matomo Referrer Spam Blacklist database will be downloaded and used to detect referrer spam."
+msgstr "即将下载 Matomo Referrer Spam 黑名单数据库并用于检测垃圾引荐。"
+
+#: includes/settings/tabs/wps-externals.php:246
+msgid "Matomo Referrer Spam Blacklist usage:"
+msgstr "Matomo Referrer Spam 黑名单用法："
+
+#: includes/settings/tabs/wps-externals.php:231
+msgid "Matomo Referrer Spam Blacklist settings"
+msgstr "Matomo Referrer Spam 黑名单设置"
+
+#: includes/settings/tabs/wps-externals.php:217
+msgid "PHP safe mode detected! GeoIP collection is not supported with PHP's safe mode enabled!"
+msgstr "检测到目前处于PHP 安全模式，该模式下 GeoIP 无法运行！"
+
+#: includes/settings/tabs/wps-externals.php:208
+msgid "GeoIP collection requires the BC Math PHP extension and it is not loaded on your version of PHP!"
+msgstr "GeoIP需要BC Math PHP扩展，但是在您目前的PHP版本中，该扩展没有被加载。"
+
+#: includes/settings/tabs/wps-externals.php:199
+msgid "GeoIP collection requires the cURL PHP extension and it is not loaded on your version of PHP!"
+msgstr "GeoIP需要cURL PHP扩展，但是在您目前的PHP版本中，该扩展没有被加载。"
+
+#: includes/settings/tabs/wps-externals.php:195
+msgid "GeoIP collection is disabled due to the following reasons:"
+msgstr "GeoIP因为以下原因被禁用："
+
+#: includes/settings/tabs/wps-externals.php:171
+msgid "Country code for private IP addresses:"
+msgstr "私有IP国家地区代码"
+
+#: includes/settings/tabs/wps-externals.php:162
+msgid "Update any missing GeoIP data after downloading a new database."
+msgstr "下载新数据库后更新任何丢失的 GeoIP 数据。"
+
+#: includes/settings/tabs/wps-externals.php:151
+msgid "Populate missing GeoIP after update of GeoIP DB:"
+msgstr "更新GeoIP数据库后丢失GeoIP信息"
+
+#: includes/settings/tabs/wps-externals.php:142
+msgid "This option will also download the database if the local filesize is less than 1k (which usually means the stub that comes with the plugin is still in place)."
+msgstr "这个选项将会在本地文件不足1K的前提下依然下载数据库"
+
+#: includes/settings/tabs/wps-externals.php:137
+msgid "Download of the GeoIP database will be scheduled for 2 days after the first Tuesday of the month."
+msgstr "计划每月第一个周二的未来两天用来下载GeoIP数据库。"
+
+#: includes/settings/tabs/wps-externals.php:111
+#: includes/settings/tabs/wps-externals.php:283
+msgid "Next update will be"
+msgstr "下一次更新"
+
+#: includes/settings/tabs/wps-externals.php:103
+msgid "Schedule monthly update of GeoIP DB:"
+msgstr "计划每月更新 GeoIP 数据库："
+
+#: includes/settings/tabs/wps-externals.php:72
+msgid "For getting more information and location (country) from visitor, enable this feature."
+msgstr "为了得到更多关于访客的信息和地理位置（国家/地区），请启用此功能。"
+
+#: includes/templates/add-ons.php:34
+msgid "Active"
+msgstr "激活"
+
+#: includes/settings/tabs/wps-externals.php:59
+msgid "GeoIP collection:"
+msgstr "GeoIP收集"
+
+#: includes/settings/tabs/wps-externals.php:42
+msgid "GeoIP settings"
+msgstr "GeoIP设置"
+
+#: includes/settings/tabs/wps-exclusions.php:456
+msgid "Note: this option will NOT handle URL parameters (anything after the ?), only to the script name. Entries less than two characters will be ignored."
+msgstr "注意：这个选项不会处理url参数（后面的任何内容），仅限于脚本名称。少于两个字符的条目将被忽略。"
+
+#: includes/settings/tabs/wps-exclusions.php:450
+msgid "A list of local urls (ie. /wordpress/about, one per line) to exclude from statistics collection."
+msgstr "要排除的站内链接（例：/wordpress/about，每行一个）。"
+
+#: includes/settings/tabs/wps-exclusions.php:442
+msgid "Excluded URLs list:"
+msgstr "排除的网址列表"
+
+#: includes/settings/tabs/wps-exclusions.php:419
+msgid "Exclude any URL that returns a \"404 - Not Found\" message."
+msgstr "排除任何返回“404  - 未找到”消息的网址。"
+
+#: includes/settings/tabs/wps-exclusions.php:410
+msgid "Excluded 404 pages:"
+msgstr "排除404 页"
+
+#: includes/settings/tabs/wps-exclusions.php:403
+msgid "Exclude the RSS feeds for registering as a hit."
+msgstr "排除用于注册的RSS源作为命中。"
+
+#: includes/settings/tabs/wps-exclusions.php:394
+msgid "Excluded RSS feeds:"
+msgstr "排除RSS提要"
+
+#: includes/settings/tabs/wps-exclusions.php:377
+msgid "Excluded Admin page:"
+msgstr "被排除在外的管理页面"
+
+#: includes/settings/tabs/wps-exclusions.php:370
+msgid "Exclude the login page for registering as a hit."
+msgstr "将注册页面的点击过滤掉。"
+
+#: includes/settings/tabs/wps-exclusions.php:361
+msgid "Excluded login page:"
+msgstr "被排除在外的登录页"
+
+#: includes/settings/tabs/wps-exclusions.php:357
+msgid "Site URL Exclusions"
+msgstr "网址过滤"
+
+#: includes/settings/tabs/wps-exclusions.php:349
+msgid "Note: this option will NOT perform a reverse DNS lookup on each page load but instead cache the IP address for the provided hostnames for one hour. If you are excluding dynamically assigned hosts you may find some degree of overlap when the host changes it's IP address and when the cache is updated resulting in some hits recorded."
+msgstr "注意：此选项不会对每个页面加载执行反向DNS查找，而是将提供的主机名的IP地址缓存一小时。如果您排除动态分配的主机，则当主机更改其IP地址并更新缓存时导致记录一些匹配时，可能会发现某种程度的重叠。"
+
+#: includes/settings/tabs/wps-exclusions.php:343
+msgid "A list of fully qualified host names (ie. server.example.com, one per line) to exclude from statistics collection."
+msgstr "要排除的主机列表（例：server.example.com，每行一个），其数据将不会被采集。"
+
+#: includes/settings/tabs/wps-exclusions.php:335
+msgid "Excluded hosts list:"
+msgstr "排除的主机列表"
+
+#: includes/settings/tabs/wps-exclusions.php:331
+msgid "Host Exclusions"
+msgstr "主机排除"
+
+#: includes/settings/tabs/wps-exclusions.php:312
+msgid "Included countries list:"
+msgstr "包括的国家地区列表"
+
+#: includes/settings/tabs/wps-exclusions.php:293
+msgid "Excluded countries list:"
+msgstr "排除的国家地区列表"
+
+#: includes/settings/tabs/wps-exclusions.php:289
+msgid "GeoIP Exclusions"
+msgstr "GeoIP排除"
+
+#: includes/settings/tabs/wps-exclusions.php:281
+msgid "Treat any visitor with corrupt browser info (missing IP address or empty user agent string) as a robot."
+msgstr "将具有损坏的浏览器信息（缺少IP地址或空的用户代理字符串）的访问者视为机器人。"
+
+#: includes/settings/tabs/wps-exclusions.php:273
+msgid "Treat corrupt browser info as a bot:"
+msgstr "将腐败的浏览器信息视为机器人"
+
+#: includes/settings/tabs/wps-exclusions.php:267
+msgid "Create a new Honey Pot page"
+msgstr "创建一个新的蜜罐页面"
+
+#: includes/settings/tabs/wps-exclusions.php:262
+msgid "The post ID to use for the Honey Pot page."
+msgstr "用于蜜罐页面的文章 ID 。"
+
+#: includes/settings/tabs/wps-exclusions.php:255
+msgid "Honey Pot post ID"
+msgstr "Honey Pot 文章 ID"
+
+#: includes/settings/tabs/wps-exclusions.php:247
+msgid "Use a Honey Pot page to identify robots."
+msgstr "使用蜜罐页面来识别机器人。"
+
+#: includes/settings/tabs/wps-exclusions.php:231
+msgid "Add 192.168.0.0"
+msgstr "增加 192.168.1.0"
+
+#: includes/settings/tabs/wps-exclusions.php:229
+msgid "Add 172.16.0.0"
+msgstr "增加 172.16.0.0"
+
+#: includes/settings/tabs/wps-exclusions.php:227
+msgid "Add 10.0.0.0"
+msgstr "增加 10.0.0.0"
+
+#: includes/settings/tabs/wps-exclusions.php:204
+msgid "Excluded IP address list:"
+msgstr "被排除的 IP 地址列表"
+
+#: includes/settings/tabs/wps-exclusions.php:196
+msgid "Treat visitors with more than this number of visits per day as robots. 0 = disabled."
+msgstr "将每天访问次数超过此设定值的访问者视为机器人，0为禁用。"
+
+#: includes/settings/tabs/wps-exclusions.php:190
+msgid "Robot visit threshold:"
+msgstr "机器人访问阈值"
+
+#: includes/settings/tabs/wps-exclusions.php:180
+msgid "Force the robot list to be reset to the default after an update to WP Statistics takes place. Note if this option is enabled any custom robots you have added to the list will be lost."
+msgstr "在 WP Statistics 更新后强制将机器人列表重置为默认值。注意：如果启用此选项，则添加到列表中的任何自定义机器人都将丢失。"
+
+#: includes/settings/tabs/wps-exclusions.php:169
+msgid "Force robot list update after upgrades:"
+msgstr "升级后的强制机器人列表更新"
+
+#: includes/settings/tabs/wps-exclusions.php:163
+msgid "Reset to Default"
+msgstr "重置为默认"
+
+#: includes/settings/tabs/wps-exclusions.php:156
+msgid "A list of words (one per line) to match against to detect robots. Entries must be at least 4 characters long or they will be ignored."
+msgstr "每行的词语用于检测机器人。每个词语必须至少包含4个字符，否则会被忽略掉。"
+
+#: includes/settings/tabs/wps-exclusions.php:140
+msgid "Robot list:"
+msgstr "机器人列表："
+
+#: includes/settings/tabs/wps-exclusions.php:136
+msgid "IP/Robot Exclusions"
+msgstr "IP/机器人过滤"
+
+#: includes/settings/tabs/wps-exclusions.php:128
+msgid "Exclude %s role from data collection."
+msgstr "从收集到的数据过滤%s."
+
+#: includes/settings/tabs/wps-exclusions.php:122
+#: includes/settings/tabs/wps-exclusions.php:365
+#: includes/settings/tabs/wps-exclusions.php:381
+#: includes/settings/tabs/wps-exclusions.php:398
+#: includes/settings/tabs/wps-exclusions.php:414
+#: includes/settings/tabs/wps-exclusions.php:430
+msgid "Exclude"
+msgstr "过滤"
+
+#: includes/settings/tabs/wps-exclusions.php:103
+msgid "Exclude User Roles"
+msgstr "过滤用户角色"
+
+#: includes/settings/tabs/wps-externals.php:65
+#: includes/settings/tabs/wps-externals.php:87
+#: includes/settings/tabs/wps-externals.php:108
+#: includes/settings/tabs/wps-externals.php:160
+#: includes/settings/tabs/wps-externals.php:251
+#: includes/settings/tabs/wps-externals.php:280
+#: includes/settings/tabs/wps-privacy.php:44
+#: includes/settings/tabs/wps-privacy.php:58
+#: includes/settings/tabs/wps-privacy.php:81
+#: includes/settings/tabs/wps-general.php:81
+#: includes/settings/tabs/wps-general.php:110
+#: includes/settings/tabs/wps-general.php:130
+#: includes/settings/tabs/wps-general.php:147
+#: includes/settings/tabs/wps-general.php:160
+#: includes/settings/tabs/wps-general.php:192
+#: includes/settings/tabs/wps-general.php:205
+#: includes/settings/tabs/wps-general.php:222
+#: includes/settings/tabs/wps-general.php:252
+#: includes/settings/tabs/wps-general.php:266
+#: includes/settings/tabs/wps-general.php:360
+#: includes/settings/tabs/wps-general.php:381
+#: includes/settings/tabs/wps-general.php:438
+#: includes/settings/tabs/wps-exclusions.php:87
+#: includes/settings/tabs/wps-exclusions.php:174
+#: includes/settings/tabs/wps-exclusions.php:242
+#: includes/settings/tabs/wps-exclusions.php:279
+#: includes/settings/tabs/wps-maintenance.php:50
+#: includes/settings/tabs/wps-maintenance.php:99
+#: includes/settings/tabs/wps-notifications.php:91
+#: includes/settings/tabs/wps-notifications.php:108
+#: includes/settings/tabs/wps-notifications.php:125
+#: includes/settings/tabs/wps-notifications.php:146
+#: includes/settings/tabs/wps-notifications.php:285
+msgid "Enable"
+msgstr "启用"
+
+#: includes/settings/tabs/wps-exclusions.php:82
+msgid "Record exclusions:"
+msgstr "记录排除："
+
+#: includes/settings/tabs/wps-exclusions.php:29
+msgid "This is the Honey Pot for WP Statistics to use, do not delete."
+msgstr "这是 WP Statistics 使用的 Honey Pot ，请不要删除。"
+
+#: includes/settings/tabs/wps-exclusions.php:25
+msgid "WP Statistics Honey Pot Page"
+msgstr "WP Statistics Honey Pot 页"
+
+#: includes/settings/tabs/wps-removal.php:129
+#: includes/settings/tabs/wps-overview-display.php:106
+#: includes/settings/tabs/wps-externals.php:266
+#: includes/settings/tabs/wps-externals.php:315
+#: includes/settings/tabs/wps-privacy.php:89
+#: includes/settings/tabs/wps-general.php:450
+#: includes/settings/tabs/wps-access-level.php:94
+#: includes/settings/tabs/wps-exclusions.php:466
+#: includes/settings/tabs/wps-visitor-ip.php:168
+#: includes/settings/tabs/wps-maintenance.php:139
+#: includes/settings/tabs/wps-notifications.php:293
+msgid "Update"
+msgstr "更新"
+
+#: includes/settings/tabs/wps-access-level.php:88
+msgid "If you need a more robust solution to delegate access you might want to look at %s in the WordPress plugin directory."
+msgstr "如果您需要一个更加稳妥的解决方案来优雅的访问，那么您可以在WordPress的插件目录看一下 %s。"
+
+#: includes/settings/tabs/wps-access-level.php:87
+msgid "Each of the above cascades the rights upwards in the default WordPress configuration. So for example selecting publish_posts grants the right to Authors, Editors, Admins and Super Admins."
+msgstr "在WordPress默认的设置中，上面的每个权限都是向下包含的。所以，比如您选择将publish_posts权限授予某人，那么他将拥有以下权限：作者，编辑者，管理员和超级管理员。"
+
+#: includes/settings/tabs/wps-access-level.php:86
+msgid "Hint: manage_network = Super Admin Network, manage_options = Administrator, edit_others_posts = Editor, publish_posts = Author, edit_posts = Contributor, read = Everyone."
+msgstr "提示：manage_network = 超级管理, manage_options = 管理员, edit_others_posts = 编辑, publish_posts = 作者, edit_posts = 投稿者, read = 订阅者."
+
+#: includes/settings/tabs/wps-access-level.php:76
+msgid "Required user level to manage WP Statistics:"
+msgstr "管理 WP Statistics 所需的用户等级："
+
+#: includes/settings/tabs/wps-access-level.php:56
+msgid "Required user level to view WP Statistics:"
+msgstr "查看 WP Statistics 信息所需的用户等级："
+
+#: includes/settings/tabs/wps-access-level.php:26
+#: includes/settings/wps-settings.php:38
+msgid "Access Levels"
+msgstr "访问等级"
+
+#: includes/settings/tabs/wps-about.php:151
+msgid "Still not having any luck?"
+msgstr "仍然没有任何的运气吗？"
+
+#: includes/settings/tabs/wps-about.php:148
+msgid "Have you checked your PHP and web server error logs?"
+msgstr "您检查过您的 PHP 和 web 服务器错误日志吗？"
+
+#: includes/settings/tabs/wps-about.php:138
+msgid "Do you have all the required PHP extensions installed?"
+msgstr "您有安装的所有所需的 PHP 扩展吗？"
+
+#: includes/settings/tabs/wps-about.php:137
+msgid "Have you double checked the plugin settings?"
+msgstr "您双检查插件设置过吗？"
+
+#: includes/settings/tabs/wps-about.php:136
+msgid "Have you tried using the default WordPress theme?"
+msgstr "使用默认的 WordPress 主题，您试过吗？"
+
+#: includes/settings/tabs/wps-about.php:132
+msgid "Have you tried disabling any other plugins you may have installed?"
+msgstr "禁用任何其他您可能已安装的插件，您试过吗？"
+
+#: includes/settings/tabs/wps-about.php:131
+msgid "How's your memory_limit in php.ini?"
+msgstr "您 php.ini 文件中的 memory_limit 设置是多少？"
+
+#: includes/settings/tabs/wps-about.php:128
+msgid "And a few things to double-check:"
+msgstr "和几件事要仔细检查："
+
+#: includes/settings/tabs/wps-about.php:125
+msgid "Make sure you have access to your PHP error logs."
+msgstr "请确认您有访问PHP错误日志的权限。"
+
+#: includes/settings/tabs/wps-about.php:121
+msgid "Have you search the Internet for any error messages you are receiving?"
+msgstr "您是否在互联网上搜索收到的任何错误消息？"
+
+#: includes/settings/tabs/wps-about.php:105
+msgid "FAQs"
+msgstr "常见问题解答"
+
+#: includes/settings/tabs/wps-about.php:96
+msgid "We're sorry you're having problem with WP Statistics and we're happy to help out. Here are a few things to do before contacting us:"
+msgstr "对于您在使用 WP Statistics 中遇到的问题，我们感到很抱歉。我们很乐意为您提供帮助，在与我们取得联系之前，您需要完成这些事："
+
+#: includes/settings/tabs/wps-about.php:91
+msgid "Support"
+msgstr "帮助"
+
+#: includes/settings/tabs/wps-about.php:76
+msgid "Translations"
+msgstr "翻译"
+
+#: includes/settings/tabs/wps-about.php:60
+msgid "Rate and Review at WordPress.org"
+msgstr "在WordPress.org上评分和评论"
+
+#: includes/settings/tabs/wps-about.php:50
+msgid "Come visit our great new %swebsite%s and keep up to date on the latest news about WP Statistics."
+msgstr "来参观我们伟大的新的 %s站点%s 并且保持最新关于 WP Statistics的最新消息。"
+
+#: includes/settings/tabs/wps-about.php:45
+msgid "Visit Us Online"
+msgstr "在线访问我们"
+
+#: includes/settings/tabs/wps-about.php:35
+msgid "Feel like showing us how much you enjoy WP Statistics? Drop by our %sdonation%s page and show us some love!"
+msgstr "请让我们知道您有多喜欢 WP Statistics ？访问 %sdonation%s网页给我们一些爱的捐赠！"
+
+#: includes/settings/tabs/wps-about.php:30 includes/templates/welcome.php:18
+#: includes/classes/class-wp-statistics-admin.php:584
+#: includes/classes/class-wp-statistics-admin.php:585
+msgid "Donate"
+msgstr "捐"
+
+#: includes/settings/tabs/wps-about.php:10
+msgid "WP Statistics V%s"
+msgstr "WP统计 V%s"
+
+#: includes/optimization/wps-optimization.php:243
+msgid "Historical"
+msgstr "历史"
+
+#: includes/optimization/wps-optimization.php:242
+msgid "Updates"
+msgstr "更新"
+
+#: includes/optimization/wps-optimization.php:241
+msgid "Database"
+msgstr "数据库"
+
+#: includes/optimization/wps-optimization.php:240
+msgid "Purging"
+msgstr "清除"
+
+#: includes/optimization/wps-optimization.php:238
+msgid "Resources/Information"
+msgstr "资源/信息"
+
+#: includes/optimization/wps-optimization.php:227
+msgid "Search table conversion complete, %d rows added."
+msgstr "搜索表转换完成，%d 行已添加。"
+
+#: includes/optimization/wps-optimization.php:49
+msgid "Install routine complete."
+msgstr "安装例行完成。"
+
+#: includes/optimization/wps-optimization.php:41
+msgid "IP Addresses replaced with hash values."
+msgstr "IP 地址替换为哈希值。"
+
+#: includes/optimization/tabs/wps-optimization-updates.php:49
+msgid "Replace IP addresses in the database with hash values, you will not be able to recover the IP addresses in the future to populate location information afterwards and this may take a while"
+msgstr "将数据库中的 IP 地址替换为哈希值，之后您可能无法通过恢复 IP 地址来填充位置信息，这可能需要一段时间"
+
+#: includes/settings/tabs/wps-privacy.php:52
+#: includes/optimization/tabs/wps-optimization-updates.php:42
+msgid "Hash IP Addresses:"
+msgstr "散列 IP 地址"
+
+#: includes/optimization/tabs/wps-optimization-updates.php:37
+msgid "IP Addresses"
+msgstr "IP 地址"
+
+#: includes/optimization/tabs/wps-optimization-updates.php:29
+msgid "Updates any unknown location data in the database, this may take a while"
+msgstr "更新数据库中所有未知地区的数据，这可能需要一段时间"
+
+#: includes/optimization/tabs/wps-optimization-updates.php:16
+msgid "GeoIP Options"
+msgstr "GeoIP选项"
+
+#: includes/optimization/tabs/wps-optimization-updates.php:4
+msgid "This will replace all IP addresses in the database with hash values and cannot be undo, are you sure?"
+msgstr "这将使用哈希值替换数据库中的所有 IP 地址，此操作无法撤消，是否确认执行？"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:269
+msgid "The detected client platform."
+msgstr "检测到的客户端平台。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:258
+msgid "The detected client browser version."
+msgstr "检测到的客户端浏览器版本。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:247
+msgid "The detected client browser."
+msgstr "检测到的客户端浏览器。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:239
+#: includes/log/last-search.php:114 includes/log/last-visitor.php:120
+#: includes/log/top-countries.php:129 includes/log/online.php:37
+#: includes/log/top-referring.php:142 includes/log/widgets/recent.php:12
+#: includes/log/widgets/words.php:29
+msgid "Browser"
+msgstr "浏览器"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:233
+msgid "The client user agent string."
+msgstr "用户代理信息"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:228
+msgid "User Agent"
+msgstr "用户代理"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:222
+msgid "The client IP address."
+msgstr "客户端IP地址。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:217
+msgid "Client IP"
+msgstr "客户端IP"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:212
+msgid "Client Info"
+msgstr "客户端信息"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:207
+msgid "The file size and date of the GeoIP database."
+msgstr "GeoIP 数据库的文件大小和创建日期。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:204
+msgid ", created on "
+msgstr "， 创建于"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:202
+msgid "Database file does not exist."
+msgstr "数据库文件不存在"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:193
+msgid "GeoIP Database"
+msgstr "GeoIP 数据库"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:188
+msgid "File Info"
+msgstr "文件信息"
+
+#: includes/templates/add-ons.php:40
+#: includes/optimization/tabs/wps-optimization-resources.php:148
+#: includes/optimization/tabs/wps-optimization-resources.php:164
+#: includes/optimization/tabs/wps-optimization-resources.php:180
+msgid "Not installed"
+msgstr "未安装"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:146
+#: includes/optimization/tabs/wps-optimization-resources.php:162
+#: includes/optimization/tabs/wps-optimization-resources.php:178
+msgid "Installed"
+msgstr "已安装"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:132
+msgid "The PHP cURL Extension version you are running. cURL is required for the GeoIP code, if it is not installed GeoIP will be disabled."
+msgstr "您使用的 PHP cURL 扩展版本。GeoIP 代码需要 cURL ，如果 cURL 没有安装，GeoIP 将被禁用。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:129
+msgid "cURL not installed"
+msgstr "cURL未安装"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:121
+msgid "cURL Version"
+msgstr "cURL版本"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:115
+msgid "The jQuery version you are running."
+msgstr "您使用的 jQuery 版本。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:107
+msgid "jQuery Version"
+msgstr "jQuery 版本"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:85
+msgid "Is PHP Safe Mode active. The GeoIP code is not supported in Safe Mode."
+msgstr "PHP安全模式是否开启。GeoIP代码在安全模式下不能工作。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:75
+msgid "PHP Safe Mode"
+msgstr "PHP 安全模式"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:69
+msgid "The PHP version you are running."
+msgstr "您使用的 PHP 版本。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:64
+msgid "PHP Version"
+msgstr "PHP 版本"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:58
+msgid "The WP Statistics version you are running."
+msgstr "您使用的 WP Statistics 版本。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:53
+msgid "WP Statistics Version"
+msgstr "WP Statistics 版本"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:48
+msgid "Version Info"
+msgstr "版本信息"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:40
+msgid "Number of rows"
+msgstr "行数"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:39
+msgid "Row"
+msgid_plural "Rows"
+msgstr[0] "行"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:35
+msgid "Number of rows in the %s table"
+msgstr " %s表中的行数"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:26
+msgid "The memory limit a script is allowed to consume, set in php.ini."
+msgstr "内存限制脚本允许消费，在 php.ini 文件中设置。"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:21
+msgid "PHP Memory Limit"
+msgstr "PHP 内存限制"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:10
+#: includes/optimization/tabs/wps-optimization-resources.php:15
+msgid "Memory usage in PHP"
+msgstr "PHP 内存使用"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:5
+msgid "Resources"
+msgstr "资源"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:318
+msgid "All visitor data will be lost for this platform type."
+msgstr "该平台的所有访客数据都将被删除。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:302
+msgid "Delete Platforms:"
+msgstr "删除平台"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:294
+#: includes/optimization/tabs/wps-optimization-purging.php:319
+#: includes/optimization/tabs/wps-optimization-purging.php:334
+msgid "Delete now!"
+msgstr "现在删除！"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:293
+msgid "All visitor data will be lost for this agent type."
+msgstr "该类型的所有访客信息将被删除。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:277
+msgid "Delete Agents:"
+msgstr "删除代理"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:272
+msgid "Delete User Agent Types"
+msgstr "删除用户代理类型"
+
+#: includes/settings/tabs/wps-maintenance.php:110
+#: includes/optimization/tabs/wps-optimization-purging.php:257
+msgid "Purge visitors with more than:"
+msgstr "用超过的净化游客"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:249
+#: includes/optimization/tabs/wps-optimization-purging.php:265
+msgid "Purge now!"
+msgstr "现在清除。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:241
+msgid "Purge records older than:"
+msgstr "清除记录条件选择"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:233
+msgid "Clear now!"
+msgstr "马上清除！"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:232
+msgid "All data table will be lost."
+msgstr "所有的表数据将丢失。"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:218
+msgid "Empty Table:"
+msgstr "空表"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:213
+msgid "Data"
+msgstr "数据"
+
+#: includes/optimization/tabs/wps-optimization-purging.php:10
+#: includes/optimization/tabs/wps-optimization-purging.php:44
+#: includes/optimization/tabs/wps-optimization-purging.php:77
+#: includes/optimization/tabs/wps-optimization-purging.php:110
+#: includes/optimization/tabs/wps-optimization-purging.php:145
+#: includes/optimization/tabs/wps-optimization-purging.php:180
+msgid "Are you sure?"
+msgstr "确定？"
+
+#: includes/optimization/tabs/wps-optimization-historical.php:56
+msgid "Number of historical number of visits to the site (current value is %s)."
+msgstr "该站点的历史访问次数（当前值为%s）。"
+
+#: includes/optimization/tabs/wps-optimization-historical.php:37
+msgid "Number of historical number of visitors to the site (current value is %s)."
+msgstr "站点访问者的历史数量（当前值为%s）。"
+
+#: includes/settings/tabs/wps-general.php:137
+#: includes/classes/class-wp-statistics-shortcode.php:163
+#: includes/classes/class-wp-statistics-network-admin.php:65
+#: includes/classes/class-wp-statistics-tinymce.php:35
+#: includes/classes/class-wp-statistics-admin.php:515
+#: includes/optimization/tabs/wps-optimization-historical.php:29
+#: includes/log/top-countries.php:38 includes/log/widgets/quickstats.php:24
+#: includes/log/widgets/hits.php:31 includes/log/widgets/summary.php:22
+#: includes/log/hit-statistics.php:67 includes/log/hit-statistics.php:136
+msgid "Visitors"
+msgstr "访客"
+
+#: includes/optimization/tabs/wps-optimization-historical.php:20
+msgid "Note: As you have just purged the database you must reload this page for these numbers to be correct."
+msgstr "注意：由于您刚刚清除了数据库，因此必须重新加载此页面以确保这些数字是正确的。"
+
+#: includes/optimization/tabs/wps-optimization-historical.php:15
+msgid "Historical Values"
+msgstr "历史价值观"
+
+#: includes/optimization/tabs/wps-optimization-export.php:56
+msgid "Start Now!"
+msgstr "立即开始"
+
+#: includes/optimization/tabs/wps-optimization-export.php:55
+msgid "Include a header row as the first line of the exported file."
+msgstr "将头信息作为导出文件的第一行"
+
+#: includes/optimization/tabs/wps-optimization-export.php:50
+msgid "Include Header Row:"
+msgstr "包含头信息"
+
+#: includes/optimization/tabs/wps-optimization-export.php:44
+msgid "Select the output file type."
+msgstr "选择导出文件格式。"
+
+#: includes/optimization/tabs/wps-optimization-export.php:33
+msgid "Export To:"
+msgstr "导出到："
+
+#: includes/optimization/tabs/wps-optimization-export.php:27
+msgid "Select the table for the output file."
+msgstr "选择要输出文件的表。"
+
+#: includes/settings/tabs/wps-general.php:284
+#: includes/settings/tabs/wps-notifications.php:164
+#: includes/settings/tabs/wps-notifications.php:202
+#: includes/optimization/tabs/wps-optimization-export.php:19
+#: includes/optimization/tabs/wps-optimization-export.php:38
+#: includes/optimization/tabs/wps-optimization-purging.php:223
+#: includes/optimization/tabs/wps-optimization-purging.php:282
+#: includes/optimization/tabs/wps-optimization-purging.php:307
+msgid "Please select"
+msgstr "请选择"
+
+#: includes/optimization/tabs/wps-optimization-export.php:14
+msgid "Export from:"
+msgstr "导出来源"
+
+#: includes/optimization/tabs/wps-optimization-export.php:9
+#: includes/optimization/wps-optimization.php:239
+msgid "Export"
+msgstr "导出"
+
+#: includes/optimization/tabs/wps-optimization-database.php:106
+msgid "Convert Now!"
+msgstr "立即转换！"
+
+#: includes/optimization/tabs/wps-optimization-database.php:99
+msgid "Convert:"
+msgstr "兑换"
+
+#: includes/optimization/tabs/wps-optimization-database.php:94
+msgid "Search Table"
+msgstr "搜索数据表"
+
+#: includes/optimization/tabs/wps-optimization-database.php:77
+msgid "This operation could take a long time on installs with many rows in the visits table."
+msgstr "在访问表中安装许多行时，此操作可能需要很长时间。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:61
+msgid "Visits Table:"
+msgstr "访问表"
+
+#: includes/optimization/tabs/wps-optimization-database.php:52
+#: includes/optimization/tabs/wps-optimization-database.php:83
+#: includes/optimization/tabs/wps-optimization-database.php:113
+msgid "Congratulations, your installation is already up to date, nothing to do."
+msgstr "恭喜，您安装的是最新版，不需更多操作。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:46
+#: includes/optimization/tabs/wps-optimization-database.php:108
+msgid "This operation could take a long time on installs with many rows in the visitors table."
+msgstr "此操作可能需要很长时间，安装与游客表中的多行上。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:44
+#: includes/optimization/tabs/wps-optimization-database.php:75
+#: includes/optimization/tabs/wps-optimization-updates.php:26
+#: includes/optimization/tabs/wps-optimization-updates.php:47
+#: includes/optimization/tabs/wps-optimization-historical.php:68
+msgid "Update Now!"
+msgstr "立即更新！"
+
+#: includes/classes/class-wp-statistics-network-admin.php:66
+#: includes/classes/class-wp-statistics-admin.php:521
+msgid "Countries"
+msgstr "国家/地区"
+
+#: includes/optimization/tabs/wps-optimization-database.php:20
+msgid "Database Index"
+msgstr "数据库索引"
+
+#: includes/optimization/tabs/wps-optimization-database.php:15
+msgid "If for some reason your installation of WP Statistics is missing the database tables or other core items, this will re-execute the install process."
+msgstr "如果由于某些原因导致 WP Statistics 数据表或核心文件缺失，使用此选项可以重新安装 WP Statistics 。"
+
+#: includes/optimization/tabs/wps-optimization-database.php:14
+msgid "Install Now!"
+msgstr "立即安装"
+
+#: includes/optimization/tabs/wps-optimization-database.php:10
+msgid "Re-run Install:"
+msgstr "重新运行安装程序"
+
+#: includes/optimization/tabs/wps-optimization-database.php:5
+msgid "Database Setup"
+msgstr "数据库安装程序"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:253
+#: includes/log/widgets/top.visitors.php:38
+msgid "Version"
+msgstr "版本"
+
+#: includes/log/widgets/top.visitors.php:36
+msgid "Agent"
+msgstr "浏览器代理"
+
+#: includes/log/last-search.php:122 includes/log/last-visitor.php:128
+#: includes/log/top-countries.php:137 includes/log/online.php:44
+#: includes/log/top-referring.php:141 includes/log/widgets/recent.php:20
+#: includes/log/widgets/users_online.php:13
+#: includes/log/widgets/top.visitors.php:34 includes/log/widgets/words.php:37
+msgid "IP"
+msgstr "IP"
+
+#: includes/settings/tabs/wps-maintenance.php:122
+#: includes/classes/class-wp-statistics-network-admin.php:59
+#: includes/classes/class-wp-statistics-admin.php:412
+#: includes/classes/class-wp-statistics-admin.php:479
+#: includes/optimization/tabs/wps-optimization-purging.php:262
+#: includes/log/categories.php:212 includes/log/tags.php:228
+#: includes/log/authors.php:225 includes/log/widgets/top.visitors.php:28
+msgid "Hits"
+msgstr "点击数"
+
+#: includes/log/widgets/quickstats.php:216 includes/log/widgets/summary.php:211
+msgid "Time: %s"
+msgstr "时间： %s"
+
+#: includes/log/widgets/quickstats.php:207 includes/log/widgets/summary.php:202
+msgid "Date: %s"
+msgstr "日期： %s"
+
+#: includes/log/widgets/quickstats.php:198 includes/log/widgets/summary.php:196
+msgid "(Adjustment)"
+msgstr "（调整）"
+
+#: includes/log/widgets/quickstats.php:197 includes/log/widgets/summary.php:195
+msgid "Current Time and Date"
+msgstr "当前时间和日期："
+
+#: includes/log/widgets/quickstats.php:173 includes/log/widgets/summary.php:171
+msgid "Daily Total:"
+msgstr "每日总计"
+
+#: includes/log/widgets/quickstats.php:92
+msgid "Last 365 Days (Year):"
+msgstr "最近365天 (年) ："
+
+#: includes/log/widgets/quickstats.php:78
+msgid "Last 30 Days (Month):"
+msgstr "最近30天 (月) ："
+
+#: includes/log/widgets/quickstats.php:64
+msgid "Last 7 Days (Week):"
+msgstr "最近7天 (周) ："
+
+#: includes/classes/class-wp-statistics-tinymce.php:52
+#: includes/log/widgets/quickstats.php:145 includes/log/widgets/summary.php:143
+msgid "Yesterday"
+msgstr "昨天"
+
+#: includes/classes/class-wp-statistics-tinymce.php:51
+#: includes/log/widgets/quickstats.php:144 includes/log/widgets/summary.php:142
+msgid "Today"
+msgstr "今天"
+
+#: includes/log/widgets/referring.php:27
+msgid "Address"
+msgstr "网址"
+
+#: includes/log/widgets/page.php:25
+msgid "Page Trending Stats"
+msgstr "页面趋势统计"
+
+#: includes/log/all-browsers.php:53 includes/log/widgets/browsers.php:42
+msgid "Other"
+msgstr "其它"
+
+#: includes/log/widgets/about.php:11
+msgid "Website"
+msgstr "官网"
+
+#: includes/log/last-search.php:121 includes/log/last-visitor.php:127
+#: includes/log/top-countries.php:136 includes/log/top-visitors.php:26
+#: includes/log/top-referring.php:146 includes/log/widgets/recent.php:19
+#: includes/log/widgets/words.php:36
+msgid "Date"
+msgstr "日期"
+
+#: includes/log/top-visitors.php:11
+msgid "Top 100 Visitors Today"
+msgstr "今日100强访客"
+
+#: includes/log/top-referring.php:220 includes/log/widgets/referring.php:29
+msgid "References"
+msgstr "引用"
+
+#: includes/settings/tabs/wps-general.php:120
+#: includes/classes/class-wp-statistics-shortcode.php:162
+#: includes/classes/class-wp-statistics-tinymce.php:34
+#: includes/optimization/tabs/wps-optimization-historical.php:48
+#: includes/log/top-pages.php:135 includes/log/categories.php:102
+#: includes/log/tags.php:118 includes/log/authors.php:115
+#: includes/log/widgets/pages.php:12 includes/log/widgets/quickstats.php:29
+#: includes/log/widgets/hits.php:41 includes/log/widgets/summary.php:27
+#: includes/log/hit-statistics.php:77 includes/log/hit-statistics.php:135
+msgid "Visits"
+msgstr "点击"
+
+#: includes/log/widgets/page.php:87
+msgid "Number of Hits"
+msgstr "点击数"
+
+#: includes/log/top-pages.php:89
+msgid "Top 5 Page Trending Stats"
+msgstr "排行前5的页面趋势统计"
+
+#: includes/log/top-pages.php:46
+msgid "Top 5 Pages Trends"
+msgstr "排行前5的页面趋势"
+
+#: includes/log/top-pages.php:40 includes/log/top-pages.php:109
+msgid "Top Pages"
+msgstr "页面排行"
+
+#: includes/log/top-countries.php:82 includes/log/widgets/countries.php:11
+msgid "Visitor Count"
+msgstr "访客人数"
+
+#: includes/log/last-search.php:116 includes/log/last-visitor.php:122
+#: includes/log/top-countries.php:81 includes/log/top-countries.php:131
+#: includes/log/online.php:39 includes/log/top-referring.php:144
+#: includes/log/top-referring.php:218 includes/log/widgets/recent.php:14
+#: includes/log/widgets/countries.php:10
+#: includes/log/widgets/users_online.php:12
+#: includes/log/widgets/top.visitors.php:30 includes/log/widgets/words.php:31
+msgid "Country"
+msgstr "国家/地区"
+
+#: includes/log/top-countries.php:80 includes/log/widgets/countries.php:9
+#: includes/log/widgets/top.visitors.php:29
+msgid "Flag"
+msgstr "标志"
+
+#: includes/log/top-countries.php:79 includes/log/widgets/countries.php:8
+#: includes/log/widgets/top.visitors.php:27
+msgid "Rank"
+msgstr "排行"
+
+#: includes/log/top-countries.php:35 includes/log/top-countries.php:61
+msgid "Top Countries"
+msgstr "前几名的国家/地区"
+
+#: includes/log/search-statistics.php:40 includes/log/search-statistics.php:46
+msgid "Search Engine Referral Statistics"
+msgstr "搜索引擎推荐统计"
+
+#: includes/log/page-statistics.php:72
+msgid "Page Trend"
+msgstr "页的趋势"
+
+#: includes/log/page-statistics.php:66
+msgid "Page Trend for Post ID %s"
+msgstr "文章 ID %s 页趋势"
+
+#: includes/settings/tabs/wps-general.php:70
+#: includes/classes/class-wp-statistics-admin-pages.php:138
+#: includes/classes/class-wp-statistics-shortcode.php:161
+#: includes/classes/class-wp-statistics-tinymce.php:33
+#: includes/classes/class-wp-statistics-widget.php:33
+#: includes/classes/class-wp-statistics-widget.php:261
+#: includes/log/online.php:7 includes/log/online.php:12
+msgid "Online Users"
+msgstr "在线用户"
+
+#: includes/log/log.php:9
+msgid "Donate Now!"
+msgstr "捐赠！"
+
+#: includes/log/log.php:9
+msgid "Have you thought about donating to WP Statistics?"
+msgstr "您有没有想过给WP Statistics捐赠？"
+
+#: includes/log/last-visitor.php:92
+msgid "Filtered by"
+msgstr "过滤"
+
+#: includes/log/last-visitor.php:90
+msgid "Recent Visitor Statistics"
+msgstr "近期访客统计"
+
+#: includes/log/online.php:46 includes/log/widgets/users_online.php:14
+msgid "Page"
+msgstr "页面"
+
+#: includes/settings/tabs/wps-overview-display.php:76
+#: includes/log/online.php:70 includes/log/top-referring.php:160
+msgid "Map"
+msgstr "地图"
+
+#: includes/log/last-search.php:193 includes/log/last-visitor.php:182
+#: includes/log/top-countries.php:191 includes/log/online.php:66
+#: includes/log/top-referring.php:156 includes/log/widgets/recent.php:74
+#: includes/log/widgets/jqv.map.php:66 includes/log/widgets/words.php:105
+msgid "#hash#"
+msgstr "#hash#"
+
+#: includes/log/last-search.php:67
+msgid "Latest Search Word Statistics"
+msgstr "最新搜索词的统计信息"
+
+#: includes/functions/functions.php:1419
+#: includes/classes/class-wp-statistics-widget.php:363
+#: includes/optimization/tabs/wps-optimization-purging.php:229
+#: includes/log/last-search.php:46 includes/log/last-visitor.php:43
+#: includes/log/top-countries.php:43 includes/log/top-referring.php:88
+#: includes/log/top-referring.php:99
+msgid "All"
+msgstr "全部"
+
+#: includes/log/hit-statistics.php:45
+msgid "Hits Statistics Chart"
+msgstr "点击率统计图表"
+
+#: includes/log/exclusions.php:257 includes/log/hit-statistics.php:148
+msgid "All Time Total:"
+msgstr "所有时间共计"
+
+#: includes/log/exclusions.php:251 includes/log/hit-statistics.php:140
+msgid "Chart Total:"
+msgstr "图表总计"
+
+#: includes/settings/tabs/wps-exclusions.php:78
+#: includes/settings/wps-settings.php:39
+#: includes/classes/class-wp-statistics-network-admin.php:69
+#: includes/classes/class-wp-statistics-admin.php:557
+#: includes/log/exclusions.php:247
+msgid "Exclusions"
+msgstr "过滤"
+
+#: includes/log/exclusions.php:232 includes/log/hit-statistics.php:120
+msgid "Hits Statistics Summary"
+msgstr "点击量统计汇总"
+
+#: includes/log/exclusions.php:164
+msgid "Exclusions Statistical Chart"
+msgstr "过滤统计表"
+
+#: includes/log/exclusions.php:158
+msgid "Exclusions Statistics"
+msgstr "排除统计"
+
+#: includes/log/exclusions.php:96
+msgid "Referrer Spam"
+msgstr "推荐的垃圾信息"
+
+#: includes/log/exclusions.php:95
+msgid "404 Pages"
+msgstr "404页面"
+
+#: includes/log/exclusions.php:94
+msgid "Excluded URL"
+msgstr "排除的网址"
+
+#: includes/log/exclusions.php:93
+msgid "Feeds"
+msgstr "Feeds"
+
+#: includes/log/exclusions.php:92
+msgid "Honey Pot"
+msgstr "Honey Pot"
+
+#: includes/log/exclusions.php:91
+msgid "Robot Threshold"
+msgstr "机器人的门槛"
+
+#: includes/log/exclusions.php:90
+msgid "Hostname"
+msgstr "主机名"
+
+#: includes/log/exclusions.php:89
+msgid "GeoIP"
+msgstr "基于IP的地理位置查询（GeoIP）"
+
+#: includes/classes/class-wp-statistics-tinymce.php:56
+#: includes/log/search-statistics.php:89 includes/log/exclusions.php:88
+#: includes/log/widgets/search.php:58
+msgid "Total"
+msgstr "总计"
+
+#: includes/log/exclusions.php:87
+msgid "User Role"
+msgstr "用户角色"
+
+#: includes/log/exclusions.php:86
+msgid "Login Page"
+msgstr "登录页面"
+
+#: includes/log/exclusions.php:85
+msgid "Self Referral"
+msgstr "自我介绍 "
+
+#: includes/log/exclusions.php:84
+msgid "IP Match"
+msgstr "IP匹配"
+
+#: includes/log/exclusions.php:83
+msgid "Browscap"
+msgstr "Browscap"
+
+#: includes/log/exclusions.php:82
+msgid "Robot"
+msgstr "机器人"
+
+#: includes/log/exclusions.php:9
+msgid "Attention: Exclusion are not currently set to be recorded, the results below may not reflect current statistics!"
+msgstr "提示：现在没有设定记录过滤信息，所以下面的结果可能不是当前的统计信息。"
+
+#: includes/log/all-browsers.php:265
+msgid "%s Version"
+msgstr "%s 版本"
+
+#: includes/optimization/tabs/wps-optimization-resources.php:264
+#: includes/log/all-browsers.php:137 includes/log/widgets/top.visitors.php:37
+msgid "Platform"
+msgstr "平台"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:106
+#: includes/classes/class-wp-statistics-network-admin.php:67
+#: includes/classes/class-wp-statistics-admin.php:545
+#: includes/log/all-browsers.php:85 includes/log/all-browsers.php:101
+#: includes/log/widgets/browsers.php:56
+msgid "Browsers"
+msgstr "浏览器"
+
+#: includes/log/all-browsers.php:79
+msgid "Browser Statistics"
+msgstr "浏览器统计"
+
+#: includes/functions/purge.php:152
+msgid "Please select a value over 30 days."
+msgstr "请选择一个大于30天的值"
+
+#: includes/functions/purge.php:30 includes/functions/purge.php:55
+#: includes/functions/purge.php:66 includes/functions/purge.php:76
+#: includes/functions/purge.php:132
+msgid "No records found to purge from %s!"
+msgstr "没有找到要从 %s 清除的记录 ！"
+
+#: includes/functions/purge.php:28 includes/functions/purge.php:53
+#: includes/functions/purge.php:64 includes/functions/purge.php:74
+#: includes/functions/purge.php:130
+msgid "%s data older than %s days purged successfully."
+msgstr "%s 的数据超过 %s 天成功清除。"
+
+#: includes/functions/purge.php:147 includes/functions/purge-hits.php:60
+msgid "Database pruned on"
+msgstr "数据库修剪"
+
+#: includes/functions/purge-hits.php:40
+msgid "No visitors found to purge."
+msgstr "没有发现要清除的访问者"
+
+#: includes/functions/purge-hits.php:36
+msgid "%s records purged successfully."
+msgstr "%s记录清除成功"
+
+#: includes/classes/class-wp-statistics-updates.php:291
+msgid "Updated %s GeoIP records in the visitors database."
+msgstr "访问者数据库中的 %s GeoIP 记录已更新。"
+
+#: includes/classes/class-wp-statistics-updates.php:260
+msgid "Unable to load the GeoIP database, make sure you have downloaded it in the settings page."
+msgstr "无法打开 GeoIP 数据库，请确保已在设置页面下载该数据库。"
+
+#: includes/functions/functions.php:1696
+msgid "Error, %s not emptied!"
+msgstr "错误，%s 未清空。"
+
+#: includes/functions/functions.php:1692
+msgid "%s table data deleted successfully."
+msgstr "%s 已成功删除的表数据。"
+
+#: includes/functions/functions.php:1498 includes/log/top-visitors.php:29
+msgid "Go"
+msgstr "确定"
+
+#: includes/functions/functions.php:1498
+msgid "to"
+msgstr "至"
+
+#: includes/functions/functions.php:1418
+msgid "1 Year"
+msgstr "1年"
+
+#: includes/functions/functions.php:1417
+msgid "9 Months"
+msgstr "9个月"
+
+#: includes/functions/functions.php:1416
+msgid "6 Months"
+msgstr "6个月"
+
+#: includes/functions/functions.php:1415
+msgid "3 Months"
+msgstr "3个月"
+
+#: includes/functions/functions.php:1414
+msgid "2 Months"
+msgstr "2个月"
+
+#: includes/functions/functions.php:1413
+msgid "30 Days"
+msgstr "30 天"
+
+#: includes/functions/functions.php:1412
+msgid "20 Days"
+msgstr "20 天"
+
+#: includes/functions/functions.php:1411
+msgid "10 Days"
+msgstr "10 天"
+
+#: includes/functions/functions.php:861
+msgid "Yandex"
+msgstr "Yandex"
+
+#: includes/functions/functions.php:852
+msgid "Yahoo!"
+msgstr "Yahoo!"
+
+#: includes/functions/functions.php:843
+msgid "Google"
+msgstr "谷歌 （Google）"
+
+#: includes/functions/functions.php:834
+msgid "DuckDuckGo"
+msgstr "DuckDuckGo搜索"
+
+#: includes/functions/functions.php:825
+msgid "clearch.org"
+msgstr "clearch.org搜索"
+
+#: includes/functions/functions.php:816
+msgid "Bing"
+msgstr "必应"
+
+#: includes/functions/functions.php:807
+msgid "Baidu"
+msgstr "百度"
+
+#: includes/functions/functions.php:798
+msgid "Ask.com"
+msgstr "ask"
+
+#: includes/log/categories.php:118 includes/log/tags.php:134
+#: includes/log/authors.php:131 includes/log/exclusions.php:205
+#: includes/log/widgets/hits.php:61 includes/log/hit-statistics.php:94
+msgid "Hits in the last %s days"
+msgstr "最后 %s 天的点击"
+
+#: includes/classes/class-wp-statistics-editor.php:76
+msgid "This post is not yet published."
+msgstr "这篇文章还未发表。"
+
+#: includes/classes/class-wp-statistics-dashboard.php:108
+msgid "Top 10 Visitors Today"
+msgstr "访问量前十名"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:51
+#: includes/classes/class-wp-statistics-dashboard.php:102
+#: includes/log/last-search.php:28
+msgid "Latest Search Words"
+msgstr "最新的搜索词"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:97
+#: includes/classes/class-wp-statistics-dashboard.php:61
+msgid "Summary"
+msgstr "摘要"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:42
+#: includes/classes/class-wp-statistics-dashboard.php:96
+#: includes/classes/class-wp-statistics-widget.php:111
+#: includes/classes/class-wp-statistics-widget.php:338
+#: includes/log/widgets/quickstats.php:136 includes/log/widgets/summary.php:134
+msgid "Search Engine Referrals"
+msgstr "搜索引擎引用次数"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:115
+#: includes/classes/class-wp-statistics-dashboard.php:90
+#: includes/log/top-referring.php:80 includes/log/top-referring.php:116
+msgid "Top Referring Sites"
+msgstr "引用站点排名"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:60
+#: includes/classes/class-wp-statistics-dashboard.php:114
+#: includes/log/last-visitor.php:38
+msgid "Recent Visitors"
+msgstr "最近访客"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:84
+#: includes/classes/class-wp-statistics-dashboard.php:84
+msgid "Top 10 Pages"
+msgstr "前 10 页"
+
+#: includes/classes/class-wp-statistics-editor.php:63
+#: includes/classes/class-wp-statistics-admin-pages.php:21
+#: includes/classes/class-wp-statistics-dashboard.php:78
+#: includes/log/hit-statistics.php:7
+msgid "Hit Statistics"
+msgstr "点击统计"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:71
+#: includes/classes/class-wp-statistics-dashboard.php:119
+msgid "Today's Visitors Map"
+msgstr "今日访客地图"
+
+#: includes/classes/class-wp-statistics-admin-pages.php:126
+#: includes/classes/class-wp-statistics-dashboard.php:72
+msgid "Top 10 Countries"
+msgstr "前十个国家/地区"
+
+#: includes/classes/class-wp-statistics-dashboard.php:66
+msgid "Top 10 Browsers"
+msgstr "排名前十的浏览器"
+
+#: includes/classes/class-wp-statistics-dashboard.php:58
+msgid "Quick Stats"
+msgstr "快速统计"
+
+#: includes/functions/purge-hits.php:43
+#: includes/classes/class-wp-statistics-ajax.php:277
+msgid "Number of hits must be greater than or equal to 10!"
+msgstr "点击次数必须大于或等于10 "
+
+#: includes/classes/class-wp-statistics-ajax.php:139
+msgid "No platform data found to remove!"
+msgstr "找不到要删除的平台数据 "
+
+#: includes/classes/class-wp-statistics-ajax.php:135
+msgid "%s platform data deleted successfully."
+msgstr "%s 平台数据已成功删除。"
+
+#: includes/classes/class-wp-statistics-ajax.php:108
+#: includes/classes/class-wp-statistics-ajax.php:145
+#: includes/classes/class-wp-statistics-ajax.php:182
+#: includes/classes/class-wp-statistics-ajax.php:204
+#: includes/classes/class-wp-statistics-ajax.php:225
+#: includes/classes/class-wp-statistics-ajax.php:250
+#: includes/classes/class-wp-statistics-ajax.php:282
+#: includes/classes/class-wp-statistics-ajax.php:430
+#: includes/optimization/wps-optimization.php:6
+msgid "Access denied!"
+msgstr "拒绝访问"
+
+#: includes/classes/class-wp-statistics-ajax.php:105
+#: includes/classes/class-wp-statistics-ajax.php:142
+#: includes/classes/class-wp-statistics-ajax.php:179
+#: includes/classes/class-wp-statistics-ajax.php:196
+msgid "Please select the desired items."
+msgstr "请选择期望的条目"
+
+#: includes/classes/class-wp-statistics-ajax.php:101
+msgid "No agent data found to remove!"
+msgstr "找不到要删除的代理！"
+
+#: includes/classes/class-wp-statistics-ajax.php:97
+msgid "%s agent data deleted successfully."
+msgstr "%s 已成功删除的代理数据。"
